@@ -10,6 +10,8 @@ import UIKit
 
 class ViewController: UIViewController {
     var timeTable : [TimeTableClass] = []
+    
+    var subjects : [Subject] = []
 
     override func viewDidLoad() {
         super.viewDidLoad()
@@ -25,8 +27,34 @@ class ViewController: UIViewController {
 
     func fillData() {
         var jsonData = NSData(contentsOfURL: NSURL(string: "http://alex.alphacode.at/TimeTable/nino.html")!)
-        var resultDir = NSJSONSerialization.JSONObjectWithData(jsonData!, options: nil, error: nil) as NSDictionary
-        println(resultDir)
+        //var jsonData = NSData(contentsOfFile: NSBundle.mainBundle().pathForResource("index", ofType: "json")!)
+        var json = JSON(data: jsonData!)
+        for x in json {
+            println(x.0)
+            
+            switch x.0 {
+                case "subjects":
+                    break;
+                case "classes":
+                    break;
+                case "teachers":
+                    break;
+                case "rooms":
+                    break;
+                case "departments":
+                    break;
+                case "schoolyears":
+                    break;
+                case "holidays":
+                    break;
+            default:
+                break;
+            }
+        }
+    }
+    
+    func fillSubjects(json : JSON) {
+        
     }
 }
 

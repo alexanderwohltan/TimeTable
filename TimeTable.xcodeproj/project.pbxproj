@@ -10,6 +10,9 @@
 		FA20B3C41A6D3FEF00CF1460 /* Class.swift in Sources */ = {isa = PBXBuildFile; fileRef = FA20B3C31A6D3FEF00CF1460 /* Class.swift */; };
 		FA20B3C61A6D404B00CF1460 /* Teacher.swift in Sources */ = {isa = PBXBuildFile; fileRef = FA20B3C51A6D404B00CF1460 /* Teacher.swift */; };
 		FA20B3C81A6D412400CF1460 /* ReadMe.txt in Resources */ = {isa = PBXBuildFile; fileRef = FA20B3C71A6D412400CF1460 /* ReadMe.txt */; };
+		FA4D7A7D1A6DBA21007BE258 /* SwiftyJSON.swift in Sources */ = {isa = PBXBuildFile; fileRef = FA4D7A7C1A6DBA21007BE258 /* SwiftyJSON.swift */; };
+		FA4D7A7F1A6DBD03007BE258 /* Subject.swift in Sources */ = {isa = PBXBuildFile; fileRef = FA4D7A7E1A6DBD03007BE258 /* Subject.swift */; };
+		FA4D7A811A6DC034007BE258 /* index.json in Resources */ = {isa = PBXBuildFile; fileRef = FA4D7A801A6DC034007BE258 /* index.json */; };
 		FADA49AF1A6D38E000B45EC5 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = FADA49AE1A6D38E000B45EC5 /* AppDelegate.swift */; };
 		FADA49B21A6D38E000B45EC5 /* TimeTable.xcdatamodeld in Sources */ = {isa = PBXBuildFile; fileRef = FADA49B01A6D38E000B45EC5 /* TimeTable.xcdatamodeld */; };
 		FADA49B41A6D38E000B45EC5 /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = FADA49B31A6D38E000B45EC5 /* ViewController.swift */; };
@@ -35,6 +38,9 @@
 		FA20B3C31A6D3FEF00CF1460 /* Class.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = Class.swift; sourceTree = "<group>"; };
 		FA20B3C51A6D404B00CF1460 /* Teacher.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = Teacher.swift; sourceTree = "<group>"; };
 		FA20B3C71A6D412400CF1460 /* ReadMe.txt */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = ReadMe.txt; sourceTree = "<group>"; };
+		FA4D7A7C1A6DBA21007BE258 /* SwiftyJSON.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = SwiftyJSON.swift; sourceTree = "<group>"; };
+		FA4D7A7E1A6DBD03007BE258 /* Subject.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = Subject.swift; sourceTree = "<group>"; };
+		FA4D7A801A6DC034007BE258 /* index.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = index.json; sourceTree = "<group>"; };
 		FADA49A91A6D38E000B45EC5 /* TimeTable.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = TimeTable.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		FADA49AD1A6D38E000B45EC5 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		FADA49AE1A6D38E000B45EC5 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
@@ -91,6 +97,7 @@
 			children = (
 				FADA49AE1A6D38E000B45EC5 /* AppDelegate.swift */,
 				FADA49B31A6D38E000B45EC5 /* ViewController.swift */,
+				FA4D7A7C1A6DBA21007BE258 /* SwiftyJSON.swift */,
 				FADA49B51A6D38E000B45EC5 /* Main.storyboard */,
 				FADA49B81A6D38E000B45EC5 /* Images.xcassets */,
 				FADA49BA1A6D38E000B45EC5 /* LaunchScreen.xib */,
@@ -101,6 +108,8 @@
 				FA20B3C31A6D3FEF00CF1460 /* Class.swift */,
 				FA20B3C51A6D404B00CF1460 /* Teacher.swift */,
 				FA20B3C71A6D412400CF1460 /* ReadMe.txt */,
+				FA4D7A7E1A6DBD03007BE258 /* Subject.swift */,
+				FA4D7A801A6DC034007BE258 /* index.json */,
 			);
 			path = TimeTable;
 			sourceTree = "<group>";
@@ -210,6 +219,7 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				FA4D7A811A6DC034007BE258 /* index.json in Resources */,
 				FADA49B71A6D38E000B45EC5 /* Main.storyboard in Resources */,
 				FADA49BC1A6D38E000B45EC5 /* LaunchScreen.xib in Resources */,
 				FA20B3C81A6D412400CF1460 /* ReadMe.txt in Resources */,
@@ -234,9 +244,11 @@
 				FA20B3C41A6D3FEF00CF1460 /* Class.swift in Sources */,
 				FADA49D51A6D3BF700B45EC5 /* Unit.swift in Sources */,
 				FADA49D31A6D3A1500B45EC5 /* TimeTableClass.swift in Sources */,
+				FA4D7A7D1A6DBA21007BE258 /* SwiftyJSON.swift in Sources */,
 				FADA49B41A6D38E000B45EC5 /* ViewController.swift in Sources */,
 				FADA49AF1A6D38E000B45EC5 /* AppDelegate.swift in Sources */,
 				FA20B3C61A6D404B00CF1460 /* Teacher.swift in Sources */,
+				FA4D7A7F1A6DBD03007BE258 /* Subject.swift in Sources */,
 				FADA49B21A6D38E000B45EC5 /* TimeTable.xcdatamodeld in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;

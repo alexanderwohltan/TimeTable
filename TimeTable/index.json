@@ -1,0 +1,3110 @@
+{
+    classes =     (
+                   {
+                   id = 256;
+                   long = "1AHET (REIR)";
+                   short = 1AHET;
+                   },
+                   {
+                   id = 257;
+                   long = "1BHET (BRIC)";
+                   short = 1BHET;
+                   },
+                   {
+                   id = 258;
+                   long = "2AHET (PREC)";
+                   short = 2AHET;
+                   },
+                   {
+                   id = 259;
+                   long = "2BHET (PETS)";
+                   short = 2BHET;
+                   },
+                   {
+                   id = 260;
+                   long = "3AHET (BOHU)";
+                   short = 3AHET;
+                   },
+                   {
+                   id = 261;
+                   long = "3BHET (KOHE)";
+                   short = 3BHET;
+                   },
+                   {
+                   id = 262;
+                   long = "4AHET (SURE)";
+                   short = 4AHET;
+                   },
+                   {
+                   id = 263;
+                   long = "4BHET (BOEK)";
+                   short = 4BHET;
+                   },
+                   {
+                   id = 264;
+                   long = "5AHETR (DACH)";
+                   short = 5AHETR;
+                   },
+                   {
+                   id = 265;
+                   long = "5BHETR(FISH)";
+                   short = 5BHETR;
+                   },
+                   {
+                   id = 266;
+                   long = "1AFET (SMIE)";
+                   short = 1AFET;
+                   },
+                   {
+                   id = 267;
+                   long = "2AFET (SLES)";
+                   short = 2AFET;
+                   },
+                   {
+                   id = 268;
+                   long = "3AFET (SANT)";
+                   short = 3AFET;
+                   },
+                   {
+                   id = 269;
+                   long = "4AFET (PUER)";
+                   short = 4AFET;
+                   },
+                   {
+                   id = 270;
+                   long = Informatik;
+                   short = 1AHIF;
+                   },
+                   {
+                   id = 271;
+                   long = Informatik;
+                   short = 1BHIF;
+                   },
+                   {
+                   id = 272;
+                   long = Informatik;
+                   short = 1CHIF;
+                   },
+                   {
+                   id = 273;
+                   long = Informatik;
+                   short = 1DHIF;
+                   },
+                   {
+                   id = 274;
+                   long = Informatik;
+                   short = 2AHIF;
+                   },
+                   {
+                   id = 275;
+                   long = Informatik;
+                   short = 2BHIF;
+                   },
+                   {
+                   id = 276;
+                   long = Informatik;
+                   short = 2CHIF;
+                   },
+                   {
+                   id = 277;
+                   long = Informatik;
+                   short = 3AHIF;
+                   },
+                   {
+                   id = 278;
+                   long = Informatik;
+                   short = 3BHIF;
+                   },
+                   {
+                   id = 279;
+                   long = Informatik;
+                   short = 3EHIF;
+                   },
+                   {
+                   id = 280;
+                   long = Informatik;
+                   short = 4AHIF;
+                   },
+                   {
+                   id = 281;
+                   long = Informatik;
+                   short = 4BHIF;
+                   },
+                   {
+                   id = 282;
+                   long = Informatik;
+                   short = 4EHIF;
+                   },
+                   {
+                   id = 283;
+                   long = Informatik;
+                   short = 5AHIF;
+                   },
+                   {
+                   id = 284;
+                   long = Informatik;
+                   short = 5BHIF;
+                   },
+                   {
+                   id = 285;
+                   long = Informatik;
+                   short = 5EHIF;
+                   },
+                   {
+                   id = 286;
+                   long = "H\U00d6H. ELEKTRONIK u. TECHN.INFORMATIK";
+                   short = 1AHEL;
+                   },
+                   {
+                   id = 287;
+                   long = "H\U00d6H. ELEKTRONIK u. TECHN.INFORMATIK";
+                   short = 1BHEL;
+                   },
+                   {
+                   id = 288;
+                   long = "H\U00d6H. ELEKTRONIK u. TECHN.INFORMATIK";
+                   short = 2AHEL;
+                   },
+                   {
+                   id = 289;
+                   long = "H\U00d6H. ELEKTRONIK u. TECHN.INFORMATIK";
+                   short = 3AHEL;
+                   },
+                   {
+                   id = 290;
+                   long = "H\U00d6H. ELEKTRONIK u. TECHN.INFORMATIK - aut.Schwerpkt";
+                   short = 4AHEL;
+                   },
+                   {
+                   id = 291;
+                   long = "H\U00d6H. ELEKTRONIK - TECHN.INFORMATIK";
+                   short = 5AHELI;
+                   },
+                   {
+                   id = 292;
+                   long = "H\U00d6H. ELEKTRONIK - TELEKOMMUNIKATION";
+                   short = 5AHELT;
+                   },
+                   {
+                   id = 293;
+                   long = "H\U00d6H. IT - MEDIENTECHNIK";
+                   short = 1AHITM;
+                   },
+                   {
+                   id = 294;
+                   long = "H\U00d6H. IT - MEDIENTECHNIK";
+                   short = 1BHITM;
+                   },
+                   {
+                   id = 295;
+                   long = "H\U00d6H. IT - NETZWERKTECHNIK";
+                   short = 1AHITN;
+                   },
+                   {
+                   id = 296;
+                   long = "H\U00d6H. IT - MEDIENTECHNIK";
+                   short = 2AHITM;
+                   },
+                   {
+                   id = 297;
+                   long = "H\U00d6H. IT - NETZWERKTECHNIK";
+                   short = 2AHITN;
+                   },
+                   {
+                   id = 298;
+                   long = "H\U00d6H. IT - NETZWERKTECHNIK";
+                   short = 3AHITN;
+                   },
+                   {
+                   id = 299;
+                   long = "H\U00d6H. IT - NETZWERKTECHNIK";
+                   short = 3BHITN;
+                   },
+                   {
+                   id = 300;
+                   long = "H\U00d6H. IT - NETZWERKTECHNIK";
+                   short = 4AHITN;
+                   },
+                   {
+                   id = 301;
+                   long = "H\U00d6H. IT - NETZWERKTECHNIK";
+                   short = 4BHITN;
+                   },
+                   {
+                   id = 302;
+                   long = "H\U00d6H. IT - NETZWERKTECHNIK";
+                   short = 5AHITN;
+                   },
+                   {
+                   id = 303;
+                   long = "FS ELEKTRONIK";
+                   short = 1AFEL;
+                   },
+                   {
+                   id = 304;
+                   long = "FS ELEKTRONIK";
+                   short = 2AFEL;
+                   },
+                   {
+                   id = 305;
+                   long = "FS ELEKTRONIK";
+                   short = 3AFEL;
+                   },
+                   {
+                   id = 306;
+                   long = "FS ELEKTRONIK";
+                   short = 4AFEL;
+                   },
+                   {
+                   id = 307;
+                   long = "1BEL Vorbereitungslehrgang 1. Sem";
+                   short = 1AVEE;
+                   },
+                   {
+                   id = 308;
+                   long = "1BEL 1. Sem. A";
+                   short = 1ABEL;
+                   },
+                   {
+                   id = 309;
+                   long = "1BEL 1. Sem. B";
+                   short = 1BBEL;
+                   },
+                   {
+                   id = 310;
+                   long = "1BEL 3. Sem. A";
+                   short = 3ABEL;
+                   },
+                   {
+                   id = 311;
+                   long = "1BEL 3. Sem. B";
+                   short = 3BBEL;
+                   },
+                   {
+                   id = 312;
+                   long = "1BEL 3. Sem. C  (nur AM, D und E)";
+                   short = 3CBEL;
+                   },
+                   {
+                   id = 313;
+                   long = "1BEL 3. Sem. Kolleg";
+                   short = 3KBEL;
+                   },
+                   {
+                   id = 314;
+                   long = "1BEL 5. Sem. Technische Informatik";
+                   short = 5ABELI;
+                   },
+                   {
+                   id = 315;
+                   long = "1BEL 5. Sem. Telekommunikationstechnik";
+                   short = 5ABELT;
+                   },
+                   {
+                   id = 316;
+                   long = "1BEL 7. Sem. Technische Informatik";
+                   short = 7ABELI;
+                   },
+                   {
+                   id = 317;
+                   long = "1BEL 7. Sem. Telekommunikationstechnik";
+                   short = 7ABELT;
+                   },
+                   {
+                   id = 318;
+                   long = "2BEL Vorbereitungslehrgang 2. Sem.";
+                   short = 2AVEE;
+                   },
+                   {
+                   id = 319;
+                   long = "2BEL 2. Sem. A";
+                   short = 2ABEL;
+                   },
+                   {
+                   id = 320;
+                   long = "2BEL 2. Sem. B";
+                   short = 2BBEL;
+                   },
+                   {
+                   id = 321;
+                   long = "2BEL 4. Sem. A";
+                   short = 4ABEL;
+                   },
+                   {
+                   id = 322;
+                   long = "2BEL 4. Sem. B";
+                   short = 4BBEL;
+                   },
+                   {
+                   id = 323;
+                   long = "2BEL 4. Sem. C  (nur AM, D und E)";
+                   short = 4CBEL;
+                   },
+                   {
+                   id = 324;
+                   long = "2BEL 4. Sem. Kolleg";
+                   short = 4KBEL;
+                   },
+                   {
+                   id = 325;
+                   long = "2BEL 6. Sem. Technische Informatik";
+                   short = 6ABELI;
+                   },
+                   {
+                   id = 326;
+                   long = "2BEL 6. Sem. Telekommunikationstechnik";
+                   short = 6ABELT;
+                   },
+                   {
+                   id = 327;
+                   long = "2BEL 8. Sem. Technische Informatik";
+                   short = 8ABELI;
+                   },
+                   {
+                   id = 328;
+                   long = "Graphische Leyserstra\U00dfe - OERL";
+                   short = FS1;
+                   },
+                   {
+                   id = 329;
+                   long = "htl Rosensteingasse - OERL/IBRA";
+                   short = FS2;
+                   },
+                   {
+                   id = 330;
+                   long = "ev. Gymnasium - FISH";
+                   short = FS4;
+                   },
+                   {
+                   id = 331;
+                   long = "htl Ottakring - PETS/OERL";
+                   short = FS5;
+                   },
+                   {
+                   id = 332;
+                   long = "htl Spengergasse-HAIK";
+                   short = FS6;
+                   },
+                   {
+                   id = 333;
+                   long = "2BEL 8. Sem. Telekommunikationstechnik";
+                   short = 8ABELT;
+                   },
+                   {
+                   id = 334;
+                   long = "j\U00fcd. Bildungszentrum - WURT";
+                   short = FS3;
+                   }
+                   );
+    departments =     (
+                       {
+                       id = 10;
+                       long = "Abendschule Elektronik";
+                       short = BEL;
+                       },
+                       {
+                       id = 9;
+                       long = "Abteilung f\U00fcr Elektrotechnik";
+                       short = ET;
+                       },
+                       {
+                       id = 7;
+                       long = "Abteilung f\U00fcr Informatik";
+                       short = IF;
+                       },
+                       {
+                       id = 8;
+                       long = "Abteilung f\U00fcr Informationstechnologie und Elektronik";
+                       short = ITEL;
+                       },
+                       {
+                       id = 6;
+                       long = Verwaltung;
+                       short = DION;
+                       },
+                       {
+                       id = 3;
+                       long = "Werkst\U00e4tte";
+                       short = W;
+                       }
+                       );
+    end = "2015-01-16";
+    holidays =     (
+                    {
+                    id = 49;
+                    long = Nationalfeiertag;
+                    short = "26.10.";
+                    },
+                    {
+                    id = 50;
+                    long = Allerheiligen;
+                    short = "1.11.";
+                    },
+                    {
+                    id = 43;
+                    long = Allerseelen;
+                    short = "2.11.";
+                    },
+                    {
+                    id = 44;
+                    long = "Hl. Leopold";
+                    short = "15.11.";
+                    },
+                    {
+                    id = 51;
+                    long = "Maria Empf\U00e4ngnis";
+                    short = "8.12.";
+                    },
+                    {
+                    id = 45;
+                    long = Weihnachtsferien;
+                    short = Weihnacht;
+                    },
+                    {
+                    id = 46;
+                    long = Semesterferien;
+                    short = Semesterferien;
+                    },
+                    {
+                    id = 47;
+                    long = Osterferien;
+                    short = Ostern;
+                    },
+                    {
+                    id = 52;
+                    long = Staatsfeiertag;
+                    short = "1.5.";
+                    },
+                    {
+                    id = 55;
+                    long = "Christi Himmelfahrt";
+                    short = "14.5.";
+                    },
+                    {
+                    id = 53;
+                    long = Pfingstmontag;
+                    short = "25.5.";
+                    },
+                    {
+                    id = 48;
+                    long = Pfingstdienstag;
+                    short = "26.5.";
+                    },
+                    {
+                    id = 54;
+                    long = Fronleichnam;
+                    short = "4.6.";
+                    }
+                    );
+    rooms =     (
+                 {
+                 long = D002;
+                 short = D002;
+                 },
+                 {
+                 long = D003;
+                 short = D003;
+                 },
+                 {
+                 long = D004;
+                 short = D004;
+                 },
+                 {
+                 long = D005;
+                 short = D005;
+                 },
+                 {
+                 long = D100;
+                 short = D100;
+                 },
+                 {
+                 long = D102;
+                 short = D102;
+                 },
+                 {
+                 long = D103;
+                 short = D103;
+                 },
+                 {
+                 long = D104;
+                 short = D104;
+                 },
+                 {
+                 long = D105;
+                 short = D105;
+                 },
+                 {
+                 long = D200;
+                 short = D200;
+                 },
+                 {
+                 long = D202;
+                 short = D202;
+                 },
+                 {
+                 long = D203;
+                 short = D203;
+                 },
+                 {
+                 long = D204;
+                 short = D204;
+                 },
+                 {
+                 long = D205;
+                 short = D205;
+                 },
+                 {
+                 long = "Pr\U00e4sentationsraum";
+                 short = D301;
+                 },
+                 {
+                 long = D302;
+                 short = D302;
+                 },
+                 {
+                 long = D303;
+                 short = D303;
+                 },
+                 {
+                 long = D304;
+                 short = D304;
+                 },
+                 {
+                 long = D305;
+                 short = D305;
+                 },
+                 {
+                 long = E001;
+                 short = E001;
+                 },
+                 {
+                 long = E002;
+                 short = E002;
+                 },
+                 {
+                 long = E003;
+                 short = E003;
+                 },
+                 {
+                 long = E004;
+                 short = E004;
+                 },
+                 {
+                 long = E101;
+                 short = E101;
+                 },
+                 {
+                 long = E102;
+                 short = E102;
+                 },
+                 {
+                 long = E103;
+                 short = E103;
+                 },
+                 {
+                 long = E201;
+                 short = E201;
+                 },
+                 {
+                 long = E202;
+                 short = E202;
+                 },
+                 {
+                 long = E203;
+                 short = E203;
+                 },
+                 {
+                 long = E301;
+                 short = E301;
+                 },
+                 {
+                 long = E302;
+                 short = E302;
+                 },
+                 {
+                 long = E303;
+                 short = E303;
+                 },
+                 {
+                 long = "TINF Fachlabor";
+                 short = E304;
+                 },
+                 {
+                 long = Festsaal;
+                 short = FS;
+                 },
+                 {
+                 long = "Turnsaal 1";
+                 short = LU1;
+                 },
+                 {
+                 long = "Turnsaal 2";
+                 short = LU2;
+                 },
+                 {
+                 long = Klassenraum;
+                 short = N001;
+                 },
+                 {
+                 long = Klassenraum;
+                 short = N002;
+                 },
+                 {
+                 long = Klassenraum;
+                 short = N003;
+                 },
+                 {
+                 long = Klassenraum;
+                 short = N101;
+                 },
+                 {
+                 long = Klassenraum;
+                 short = N102;
+                 },
+                 {
+                 long = Klassenraum;
+                 short = N103;
+                 },
+                 {
+                 long = Klassenraum;
+                 short = N201;
+                 },
+                 {
+                 long = Klassenraum;
+                 short = N202;
+                 },
+                 {
+                 long = Klassenraum;
+                 short = N203;
+                 },
+                 {
+                 long = Klassenraum;
+                 short = N301;
+                 },
+                 {
+                 long = Klassenraum;
+                 short = N302;
+                 },
+                 {
+                 long = Klassenraum;
+                 short = N303;
+                 },
+                 {
+                 long = "TINF Fachlabor";
+                 short = N304;
+                 },
+                 {
+                 long = NWL;
+                 short = NWL;
+                 },
+                 {
+                 long = P002c;
+                 short = P002c;
+                 },
+                 {
+                 long = P002C;
+                 short = P002C;
+                 },
+                 {
+                 long = SW;
+                 short = P003;
+                 },
+                 {
+                 long = NF;
+                 short = P004A;
+                 },
+                 {
+                 long = HF;
+                 short = P004B;
+                 },
+                 {
+                 long = DR1;
+                 short = P005A;
+                 },
+                 {
+                 long = DR2;
+                 short = P005B;
+                 },
+                 {
+                 long = MW1;
+                 short = P006A;
+                 },
+                 {
+                 long = MW2;
+                 short = P006B;
+                 },
+                 {
+                 long = "MEDT-Lab";
+                 short = P007;
+                 },
+                 {
+                 long = P008;
+                 short = P008;
+                 },
+                 {
+                 long = KT2;
+                 short = P009;
+                 },
+                 {
+                 long = KT1;
+                 short = P010;
+                 },
+                 {
+                 long = AV1;
+                 short = P012;
+                 },
+                 {
+                 long = GN;
+                 short = P102A;
+                 },
+                 {
+                 long = GR;
+                 short = P102B;
+                 },
+                 {
+                 long = EL2;
+                 short = P102C;
+                 },
+                 {
+                 long = DI;
+                 short = P102D;
+                 },
+                 {
+                 long = SMD;
+                 short = P103A;
+                 },
+                 {
+                 long = EL3;
+                 short = P103B;
+                 },
+                 {
+                 long = EL4;
+                 short = P103C;
+                 },
+                 {
+                 long = UM;
+                 short = P104A;
+                 },
+                 {
+                 long = AV2;
+                 short = P104B;
+                 },
+                 {
+                 long = GE1;
+                 short = P104C;
+                 },
+                 {
+                 long = GE2;
+                 short = P104D;
+                 },
+                 {
+                 long = WI;
+                 short = P105A;
+                 },
+                 {
+                 long = P105B;
+                 short = P105B;
+                 },
+                 {
+                 long = GB1;
+                 short = P106A;
+                 },
+                 {
+                 long = GB2;
+                 short = P106B;
+                 },
+                 {
+                 long = GB3;
+                 short = P106C;
+                 },
+                 {
+                 long = NC;
+                 short = P108;
+                 },
+                 {
+                 long = AV2;
+                 short = P109;
+                 },
+                 {
+                 long = EL1;
+                 short = P112;
+                 },
+                 {
+                 long = FM;
+                 short = P201A;
+                 },
+                 {
+                 long = KO;
+                 short = P201B;
+                 },
+                 {
+                 long = P202A;
+                 short = P202A;
+                 },
+                 {
+                 long = P202B;
+                 short = P202B;
+                 },
+                 {
+                 long = P202C;
+                 short = P202C;
+                 },
+                 {
+                 long = P204;
+                 short = P204;
+                 },
+                 {
+                 long = P206;
+                 short = P206;
+                 },
+                 {
+                 long = "R-LAB2";
+                 short = P207;
+                 },
+                 {
+                 long = P208;
+                 short = P208;
+                 },
+                 {
+                 long = "Medien-Labor";
+                 short = P301;
+                 },
+                 {
+                 long = "Medien-Server";
+                 short = P302;
+                 },
+                 {
+                 long = "Netzwerk-Labor";
+                 short = P303;
+                 },
+                 {
+                 long = "NF-Labor";
+                 short = P304;
+                 },
+                 {
+                 long = P305;
+                 short = P305;
+                 },
+                 {
+                 long = Grundlagenlabor;
+                 short = P306;
+                 },
+                 {
+                 long = NH;
+                 short = P308A;
+                 },
+                 {
+                 long = AN;
+                 short = P308B;
+                 },
+                 {
+                 long = NT1;
+                 short = P309;
+                 },
+                 {
+                 long = "HF-Labor";
+                 short = P312;
+                 },
+                 {
+                 long = EM1;
+                 short = PK01;
+                 },
+                 {
+                 long = PK01A;
+                 short = PK01A;
+                 },
+                 {
+                 long = PK01B;
+                 short = PK01B;
+                 },
+                 {
+                 long = PK02;
+                 short = PK02;
+                 },
+                 {
+                 long = GM;
+                 short = PK03;
+                 },
+                 {
+                 long = CT;
+                 short = PK04;
+                 },
+                 {
+                 long = EM2;
+                 short = PK05;
+                 },
+                 {
+                 long = EI1;
+                 short = PK06A;
+                 },
+                 {
+                 long = EI2;
+                 short = PK06B;
+                 },
+                 {
+                 long = PK06C;
+                 short = PK06C;
+                 },
+                 {
+                 long = SR2;
+                 short = PK07;
+                 },
+                 {
+                 long = RO;
+                 short = PK10;
+                 },
+                 {
+                 long = "Turnsaal 1";
+                 short = TS1;
+                 },
+                 {
+                 long = "Turnsaal 2";
+                 short = TS2;
+                 },
+                 {
+                 long = "Turnsaal 3";
+                 short = TS3;
+                 },
+                 {
+                 long = "\U00dcFA";
+                 short = "\U00dcFA";
+                 },
+                 {
+                 long = Klassenraum;
+                 short = V101;
+                 },
+                 {
+                 long = Klassenraum;
+                 short = V102;
+                 },
+                 {
+                 long = Klassenraum;
+                 short = V104;
+                 },
+                 {
+                 long = Klassenraum;
+                 short = V105;
+                 },
+                 {
+                 long = Klassenraum;
+                 short = V113;
+                 },
+                 {
+                 long = "EDV-Saal";
+                 short = V201;
+                 },
+                 {
+                 long = "Physik-Saal";
+                 short = V203;
+                 },
+                 {
+                 long = "Chemie-Saal";
+                 short = V204;
+                 },
+                 {
+                 long = V209;
+                 short = V209;
+                 },
+                 {
+                 long = V210;
+                 short = V210;
+                 },
+                 {
+                 long = Klassenraum;
+                 short = V213;
+                 },
+                 {
+                 long = Klassenraum;
+                 short = V301a;
+                 },
+                 {
+                 long = Klassenraum;
+                 short = V301b;
+                 },
+                 {
+                 long = Klassenraum;
+                 short = V301c;
+                 },
+                 {
+                 long = "CAD-Saal";
+                 short = V303;
+                 },
+                 {
+                 long = "TINF Fachlabor";
+                 short = V306;
+                 },
+                 {
+                 long = "EDV-Saal";
+                 short = V307;
+                 },
+                 {
+                 long = "EDV-Saal";
+                 short = V308;
+                 },
+                 {
+                 long = WK;
+                 short = WK;
+                 },
+                 {
+                 long = Wanderklasse;
+                 short = WKL;
+                 },
+                 {
+                 long = WR;
+                 short = WR;
+                 },
+                 {
+                 long = Werkstaette;
+                 short = WST;
+                 },
+                 {
+                 long = "Pseudoraum f\U00fcr ET (A)";
+                 short = "XET_A";
+                 },
+                 {
+                 long = "Pseudoraum f\U00fcr ET (B)";
+                 short = "XET_B";
+                 }
+                 );
+    schoolyears =     (
+                       {
+                       current = 0;
+                       end = "2014-06-29 00:00:00";
+                       id = 3;
+                       name = "2013/2014";
+                       start = "2013-09-02 00:00:00";
+                       },
+                       {
+                       current = 1;
+                       end = "2015-07-05 00:00:00";
+                       id = 4;
+                       name = "2014/2015";
+                       start = "2014-09-01 00:00:00";
+                       }
+                       );
+    start = "2015-01-12";
+    subjects =     (
+                    {
+                    id = 1;
+                    long = ABTEILUNGSVORSTAND;
+                    short = ABTV;
+                    },
+                    {
+                    id = 24;
+                    long = "Angewandte Chemie und \U00d6kologie";
+                    short = ACOL;
+                    },
+                    {
+                    id = 57;
+                    long = "Angewandte Datentechnik";
+                    short = ADAT;
+                    },
+                    {
+                    id = 67;
+                    long = "Allgemeine Elektrotechnik";
+                    short = AET;
+                    },
+                    {
+                    id = 27;
+                    long = "Angewandte Informatik";
+                    short = AINF;
+                    },
+                    {
+                    id = 19;
+                    long = "Angewandte Mathematik";
+                    short = AM;
+                    },
+                    {
+                    id = 22;
+                    long = "Angewandte Physik";
+                    short = APH;
+                    },
+                    {
+                    id = 25;
+                    long = "Angewandte Programmierung";
+                    short = APR;
+                    },
+                    {
+                    id = 162;
+                    long = Antriebstechnik;
+                    short = AT1;
+                    },
+                    {
+                    id = 183;
+                    long = "Antriebstechnik - Vertiefung";
+                    short = AT1V;
+                    },
+                    {
+                    id = 99;
+                    long = Automatisierungstechnik;
+                    short = AUT;
+                    },
+                    {
+                    id = 184;
+                    long = "Automatisierungstechnik - Vertiefung";
+                    short = AUTV;
+                    },
+                    {
+                    id = 14;
+                    long = "Bewegung und Sport";
+                    short = BESP;
+                    },
+                    {
+                    id = 89;
+                    long = "Bewegung und Sport";
+                    short = BESPU;
+                    },
+                    {
+                    id = 146;
+                    long = Betriebstechnik;
+                    short = BET;
+                    },
+                    {
+                    id = 62;
+                    long = "Betriebs- und F\U00fchrungspraxis";
+                    short = BFP3;
+                    },
+                    {
+                    id = 100;
+                    long = BILDUNGSBERATER;
+                    short = BIB;
+                    },
+                    {
+                    id = 175;
+                    long = "Entw. standardisierte Reifepr. (nach \U00a79 Abs. 3 BLVG)";
+                    short = BIFI;
+                    },
+                    {
+                    id = 190;
+                    long = "Betriebskunde und Kaufm\U00e4nnisches Rechnen";
+                    short = BKR;
+                    },
+                    {
+                    id = 60;
+                    long = "Betriebliche Organisation";
+                    short = BO;
+                    },
+                    {
+                    id = 37;
+                    long = "Betriebssysteme und Computerarchitektur";
+                    short = BSCA;
+                    },
+                    {
+                    id = 15;
+                    long = "Bewegung und Sport - Knaben";
+                    short = BSPK;
+                    },
+                    {
+                    id = 90;
+                    long = "Bewegung und Sport Knaben - unverbindliche \U00dcbungen";
+                    short = BSPKU;
+                    },
+                    {
+                    id = 169;
+                    long = "Bewegung und Sport - M\U00e4dchen";
+                    short = BSPM;
+                    },
+                    {
+                    id = 170;
+                    long = "Bewegung und Sport - M\U00e4dchen - unverbindliche \U00dcbungen";
+                    short = BSPMU;
+                    },
+                    {
+                    id = 101;
+                    long = "Betriebslehre und technische Kalkulation";
+                    short = BTK1;
+                    },
+                    {
+                    id = 36;
+                    long = Betriebswirtschaft;
+                    short = BW2;
+                    },
+                    {
+                    id = 150;
+                    long = Betriebswirtschaftslehre;
+                    short = BWL;
+                    },
+                    {
+                    id = 85;
+                    long = "Betriebswirtschaftliches Laboratorium";
+                    short = BWLA;
+                    },
+                    {
+                    id = 51;
+                    long = "Betriebswirtschaft und Management";
+                    short = BWM;
+                    },
+                    {
+                    id = 50;
+                    long = "Betriebswirtschaft und Management";
+                    short = BWM1;
+                    },
+                    {
+                    id = 52;
+                    long = "Betriebswirtschaft und Management";
+                    short = BWM3;
+                    },
+                    {
+                    id = 102;
+                    long = "Kust. betriebsw.Z.";
+                    short = BWZ;
+                    },
+                    {
+                    id = 55;
+                    long = Computerpraktikum;
+                    short = COPR;
+                    },
+                    {
+                    id = 163;
+                    long = "Computergest\U00fctzte Projektentwicklung";
+                    short = CPE;
+                    },
+                    {
+                    id = 84;
+                    long = "Computer- und Netzwerktechnik";
+                    short = CTNT;
+                    },
+                    {
+                    id = 8;
+                    long = Deutsch;
+                    short = D;
+                    },
+                    {
+                    id = 48;
+                    long = "Datenbanken und Informationssysteme";
+                    short = DBI1;
+                    },
+                    {
+                    id = 47;
+                    long = "Datenbanken und Informationssysteme";
+                    short = DBI2;
+                    },
+                    {
+                    id = 39;
+                    long = Datenbanksysteme;
+                    short = DBSY;
+                    },
+                    {
+                    id = 26;
+                    long = "Darstellende Geometrie";
+                    short = DG1;
+                    },
+                    {
+                    id = 171;
+                    long = "Digitale Systeme und Computersysteme";
+                    short = DIC;
+                    },
+                    {
+                    id = 176;
+                    long = "Digitale Systeme und Computersysteme";
+                    short = DIC1;
+                    },
+                    {
+                    id = 103;
+                    long = SCHULLEITUNG;
+                    short = DIR;
+                    },
+                    {
+                    id = 138;
+                    long = "Deutsch als lebende Fremdsprache";
+                    short = DLFS;
+                    },
+                    {
+                    id = 9;
+                    long = "Deutsch und Kommunikation";
+                    short = DUK;
+                    },
+                    {
+                    id = 10;
+                    long = Englisch;
+                    short = E1;
+                    },
+                    {
+                    id = 92;
+                    long = "Englisch Freifach";
+                    short = E1F;
+                    },
+                    {
+                    id = 104;
+                    long = "Elektrische Anlagen";
+                    short = EA;
+                    },
+                    {
+                    id = 105;
+                    long = "Elektrische Antriebe und Leistungselektronik";
+                    short = EALE;
+                    },
+                    {
+                    id = 82;
+                    long = "Elektrische Antriebe und Anlagen";
+                    short = EAUA;
+                    },
+                    {
+                    id = 64;
+                    long = "Elektronik und Digitaltechnik";
+                    short = EDT;
+                    },
+                    {
+                    id = 56;
+                    long = "EDV-Betriebssysteme";
+                    short = EDVB;
+                    },
+                    {
+                    id = 68;
+                    long = Elektronik;
+                    short = EL;
+                    },
+                    {
+                    id = 161;
+                    long = Energiesysteme;
+                    short = ES1;
+                    },
+                    {
+                    id = 182;
+                    long = "Energiesysteme - Vertiefung";
+                    short = ES1V;
+                    },
+                    {
+                    id = 167;
+                    long = "Franz\U00f6sisch";
+                    short = F;
+                    },
+                    {
+                    id = 181;
+                    long = "Fachspezifische Informationstechnik";
+                    short = FI;
+                    },
+                    {
+                    id = 187;
+                    long = "Fachspezifische Informationstechnik - Vertiefung";
+                    short = FIV;
+                    },
+                    {
+                    id = 148;
+                    long = "Forschen und Experimentieren";
+                    short = FOEX;
+                    },
+                    {
+                    id = 191;
+                    long = "Fachpraktisches Seminar";
+                    short = FPXS;
+                    },
+                    {
+                    id = 145;
+                    long = "Fachspezifische Softwaretechnik";
+                    short = FSST;
+                    },
+                    {
+                    id = 66;
+                    long = "Fertigungstechnik und Konstruktionslehre";
+                    short = FTKL;
+                    },
+                    {
+                    id = 28;
+                    long = "Grundlagen der Elektronik";
+                    short = GDE;
+                    },
+                    {
+                    id = 31;
+                    long = "Grundlagen der Elektrotechnik";
+                    short = GET;
+                    },
+                    {
+                    id = 32;
+                    long = "Grundlagen der Elektrotechnik und Elektronik";
+                    short = GETE;
+                    },
+                    {
+                    id = 33;
+                    long = "Grundlagen der Elektrotechnik mit \U00dcbungen";
+                    short = GETU;
+                    },
+                    {
+                    id = 12;
+                    long = "Geographie, Geschichte und Politische Bildung";
+                    short = GGP;
+                    },
+                    {
+                    id = 34;
+                    long = "Grundlagen der Informatik";
+                    short = GINF;
+                    },
+                    {
+                    id = 42;
+                    long = "Globale Netzwerke";
+                    short = GLNT;
+                    },
+                    {
+                    id = 29;
+                    long = "Grundlagen des Maschinenbaus";
+                    short = GMB;
+                    },
+                    {
+                    id = 30;
+                    long = "Grundlagen der Mechatronik";
+                    short = GMT;
+                    },
+                    {
+                    id = 11;
+                    long = "Geschichte und politische Bildung";
+                    short = GPB;
+                    },
+                    {
+                    id = 142;
+                    long = "Geschichte, politische Bildung und Wirtschaftsgeographie -skri";
+                    short = GPWG;
+                    },
+                    {
+                    id = 16;
+                    long = "Geographie und Wirtschaftskunde";
+                    short = GWK;
+                    },
+                    {
+                    id = 76;
+                    long = Hochfrequenztechnik;
+                    short = HFTE;
+                    },
+                    {
+                    id = 141;
+                    long = Hardwareentwicklung;
+                    short = HWE1;
+                    },
+                    {
+                    id = 65;
+                    long = "Industrielle Elektronik";
+                    short = IE;
+                    },
+                    {
+                    id = 185;
+                    long = Industrieelektronik;
+                    short = IE1;
+                    },
+                    {
+                    id = 186;
+                    long = "Industrieelektronik - Vertiefung";
+                    short = IE1V;
+                    },
+                    {
+                    id = 179;
+                    long = "Intelligente Kommunikationsysteme";
+                    short = IKS1;
+                    },
+                    {
+                    id = 165;
+                    long = "Innovation und Entrepreneurship";
+                    short = INEF;
+                    },
+                    {
+                    id = 173;
+                    long = Informationssysteme;
+                    short = INSY;
+                    },
+                    {
+                    id = 160;
+                    long = "Informationstechnische Projekte";
+                    short = ITP2;
+                    },
+                    {
+                    id = 87;
+                    long = Internettechnologien;
+                    short = ITT;
+                    },
+                    {
+                    id = 86;
+                    long = "Informationstechnik-Zertifikate und Naturwissenschaften";
+                    short = ITZ1;
+                    },
+                    {
+                    id = 106;
+                    long = "KUSTODIAT AUDIOVIS";
+                    short = KAUD;
+                    },
+                    {
+                    id = 107;
+                    long = "Kustodiat betriebswirt.Unterrichtsgegenst\U00e4nde";
+                    short = KBWG;
+                    },
+                    {
+                    id = 108;
+                    long = "KUSTODIAT CHEMIE";
+                    short = KCH;
+                    },
+                    {
+                    id = 109;
+                    long = "Kustodiat Fachbuch";
+                    short = KFBU;
+                    },
+                    {
+                    id = 110;
+                    long = "KUST.Fachtheoretische Gegenst\U00e4nde";
+                    short = KFTG;
+                    },
+                    {
+                    id = 111;
+                    long = "KUST.GEOGR.U.GESCHICHTE";
+                    short = KGGS;
+                    },
+                    {
+                    id = 112;
+                    long = "KUST. LA. E-Techni";
+                    short = KLAE;
+                    },
+                    {
+                    id = 113;
+                    long = "KUST. LA. Elektron";
+                    short = KLAN;
+                    },
+                    {
+                    id = 114;
+                    long = "KUST. LA. PRT";
+                    short = KLAP;
+                    },
+                    {
+                    id = 115;
+                    long = "Lehrerb\U00fccherei";
+                    short = KLBU;
+                    },
+                    {
+                    id = 116;
+                    long = "KUST. MATH. DG";
+                    short = KMDG;
+                    },
+                    {
+                    id = 117;
+                    long = "Kustodiat Physik";
+                    short = KPH;
+                    },
+                    {
+                    id = 118;
+                    long = "Kommunikations- u. Pr\U00e4sentationstechnik";
+                    short = KPT2;
+                    },
+                    {
+                    id = 152;
+                    long = Kommunikationsstunde;
+                    short = KS;
+                    },
+                    {
+                    id = 119;
+                    long = "Schreib-B\U00fcromasch.";
+                    short = KSBM;
+                    },
+                    {
+                    id = 120;
+                    long = "Sch\U00fclerb\U00fccherei";
+                    short = KSBU;
+                    },
+                    {
+                    id = 172;
+                    long = "Kommunikationssysteme und -netze";
+                    short = KSN;
+                    },
+                    {
+                    id = 177;
+                    long = "Kommunikationssysteme und -netze";
+                    short = KSN1;
+                    },
+                    {
+                    id = 121;
+                    long = "KUST.LEIBES\U00dcBUNGEN";
+                    short = KTSE;
+                    },
+                    {
+                    id = 69;
+                    long = "Konstruktions\U00fcbungen";
+                    short = KU;
+                    },
+                    {
+                    id = 70;
+                    long = Laboratorium;
+                    short = LA1;
+                    },
+                    {
+                    id = 91;
+                    long = "Lern- und Informationsmanagement";
+                    short = LIM1;
+                    },
+                    {
+                    id = 41;
+                    long = "Lokale Netzwerke";
+                    short = LONT;
+                    },
+                    {
+                    id = 156;
+                    long = "Landesqualit\U00e4tsprojektmanager";
+                    short = LQPM;
+                    },
+                    {
+                    id = 35;
+                    long = Medientechnik;
+                    short = MEDT;
+                    },
+                    {
+                    id = 79;
+                    long = Messtechnik;
+                    short = MET;
+                    },
+                    {
+                    id = 164;
+                    long = Medieninformatik;
+                    short = MINF;
+                    },
+                    {
+                    id = 158;
+                    long = "Mittleres Management";
+                    short = MMM;
+                    },
+                    {
+                    id = 159;
+                    long = "Messtechnik und Regelungssysteme";
+                    short = MTRS;
+                    },
+                    {
+                    id = 122;
+                    long = "Nebenleistung CAD";
+                    short = NCAD;
+                    },
+                    {
+                    id = 123;
+                    long = "Nebenleistung EDV";
+                    short = NDVA;
+                    },
+                    {
+                    id = 180;
+                    long = "Nachhaltige e-Technologien";
+                    short = NET1;
+                    },
+                    {
+                    id = 124;
+                    long = Netzwerkmanagement;
+                    short = NTMA;
+                    },
+                    {
+                    id = 125;
+                    long = Netzwerkprogrammierung;
+                    short = NTPR;
+                    },
+                    {
+                    id = 126;
+                    long = Netzwerksicherheit;
+                    short = NTSI;
+                    },
+                    {
+                    id = 49;
+                    long = "Netzwerksysteme und Verteilte Systeme";
+                    short = NVS1;
+                    },
+                    {
+                    id = 20;
+                    long = Naturwissenschaften;
+                    short = NW2;
+                    },
+                    {
+                    id = 21;
+                    long = "Naturwissenschaftliche Grundlagen";
+                    short = NWG2;
+                    },
+                    {
+                    id = 149;
+                    long = Netzwerktechnik;
+                    short = NWT1;
+                    },
+                    {
+                    id = 38;
+                    long = Netzwerktechnik;
+                    short = NWTK;
+                    },
+                    {
+                    id = 98;
+                    long = "Netzwerktechnik mit \U00dcbungen";
+                    short = NWTU;
+                    },
+                    {
+                    id = 127;
+                    long = Ordinariat;
+                    short = ORD;
+                    },
+                    {
+                    id = 136;
+                    long = "GZ 680/0028-III/6/2008";
+                    short = P93;
+                    },
+                    {
+                    id = 140;
+                    long = "Nebenleistung IT-, EDV-Kustodiatspool";
+                    short = P93E;
+                    },
+                    {
+                    id = 139;
+                    long = "Produkt und Arbeitsplatzsicherheit";
+                    short = PAS1;
+                    },
+                    {
+                    id = 96;
+                    long = "Produkt- und Arbeitsplatzsicherheit";
+                    short = PASG;
+                    },
+                    {
+                    id = 174;
+                    long = "Prototypenbau elektronischer Systeme";
+                    short = PBE3;
+                    },
+                    {
+                    id = 155;
+                    long = "Prototypenbau elektronischer Systeme";
+                    short = PBE4;
+                    },
+                    {
+                    id = 83;
+                    long = Prozessdatentechnik;
+                    short = PDT;
+                    },
+                    {
+                    id = 128;
+                    long = Personalvertreter;
+                    short = PERS;
+                    },
+                    {
+                    id = 23;
+                    long = "Physik des Fachgebietes";
+                    short = PHF;
+                    },
+                    {
+                    id = 45;
+                    long = "Programmieren und Software Engineering";
+                    short = POS1;
+                    },
+                    {
+                    id = 40;
+                    long = "Projekte und Projektmanagement";
+                    short = PPM2;
+                    },
+                    {
+                    id = 147;
+                    long = "Projekt- und Qualit\U00e4tsmanagement";
+                    short = PQM1;
+                    },
+                    {
+                    id = 46;
+                    long = Programmieren;
+                    short = PR;
+                    },
+                    {
+                    id = 58;
+                    long = Projektentwicklung;
+                    short = PRE;
+                    },
+                    {
+                    id = 44;
+                    long = "Prozessregelung und Rechnerverbund mit Labor\U00fcbungen";
+                    short = PRRL;
+                    },
+                    {
+                    id = 61;
+                    long = "PR.-\U00dcbungen-\U00dcFA";
+                    short = PRU;
+                    },
+                    {
+                    id = 129;
+                    long = "QIBB (lt. BMBWK)";
+                    short = QIBB;
+                    },
+                    {
+                    id = 130;
+                    long = "Qualit\U00e4tsmanagement";
+                    short = QM;
+                    },
+                    {
+                    id = 131;
+                    long = "Qualit\U00e4tsmanagement";
+                    short = QM2;
+                    },
+                    {
+                    id = 74;
+                    long = "Qualit\U00e4tssicherung und Produktmanagement";
+                    short = QSPM;
+                    },
+                    {
+                    id = 93;
+                    long = "Qualit\U00e4tssicherung";
+                    short = QUAL;
+                    },
+                    {
+                    id = 178;
+                    long = "Qualit\U00e4ts- und Umweltmanagement";
+                    short = QUM;
+                    },
+                    {
+                    id = 3;
+                    long = "Religion evangelisch";
+                    short = RE;
+                    },
+                    {
+                    id = 6;
+                    long = "Religion griechisch-Orthodox";
+                    short = RGRO;
+                    },
+                    {
+                    id = 4;
+                    long = "Religion islamisch";
+                    short = RISL;
+                    },
+                    {
+                    id = 2;
+                    long = "Religion r\U00f6misch-katholisch";
+                    short = RK;
+                    },
+                    {
+                    id = 7;
+                    long = "Religion serbisch-orthodox";
+                    short = RSOR;
+                    },
+                    {
+                    id = 5;
+                    long = "Religion syrisch";
+                    short = RSYR;
+                    },
+                    {
+                    id = 59;
+                    long = Rechnungswesen;
+                    short = RW1;
+                    },
+                    {
+                    id = 132;
+                    long = Seminar;
+                    short = SE3;
+                    },
+                    {
+                    id = 63;
+                    long = "System- und Einsatzplanung";
+                    short = SEP;
+                    },
+                    {
+                    id = 143;
+                    long = Softwareentwicklung;
+                    short = SEW;
+                    },
+                    {
+                    id = 133;
+                    long = "SICHERHEITST.U.UV";
+                    short = SICH;
+                    },
+                    {
+                    id = 151;
+                    long = "Studienkoordinator Cash -STAK";
+                    short = SKOC;
+                    },
+                    {
+                    id = 54;
+                    long = "Soziale und personale Kompetenz";
+                    short = SOPK;
+                    },
+                    {
+                    id = 154;
+                    long = Sprechstunde;
+                    short = SP;
+                    },
+                    {
+                    id = 168;
+                    long = "Spanisch (Freifach)";
+                    short = SPA;
+                    },
+                    {
+                    id = 157;
+                    long = "Schulqualit\U00e4tsprojektmanager";
+                    short = SQPM;
+                    },
+                    {
+                    id = 81;
+                    long = "Steuer-, Regelungs- und Antriebstechnik";
+                    short = SRAT;
+                    },
+                    {
+                    id = 80;
+                    long = "Steuerungs- und Regelungstechnik";
+                    short = SRUT;
+                    },
+                    {
+                    id = 53;
+                    long = "Systemplanung und Projektentwicklung";
+                    short = SYP1;
+                    },
+                    {
+                    id = 144;
+                    long = Systemtechnik;
+                    short = SYT;
+                    },
+                    {
+                    id = 43;
+                    long = "Technische Informatik und Computerpraktikum";
+                    short = TC4A;
+                    },
+                    {
+                    id = 134;
+                    long = Telekommunikation;
+                    short = TEKO;
+                    },
+                    {
+                    id = 78;
+                    long = "Technische Informatik";
+                    short = TINF;
+                    },
+                    {
+                    id = 75;
+                    long = "Telekommunikations- und Hochfrequenztechnik";
+                    short = TKHF;
+                    },
+                    {
+                    id = 77;
+                    long = Telekommunikationstechnik;
+                    short = TKTE;
+                    },
+                    {
+                    id = 88;
+                    long = "Technisches Vertriebsmanagement";
+                    short = TVM2;
+                    },
+                    {
+                    id = 189;
+                    long = Textverarbeitung;
+                    short = TXV3;
+                    },
+                    {
+                    id = 95;
+                    long = "Umweltmanagement und Abfallwirtschaft";
+                    short = UMAW;
+                    },
+                    {
+                    id = 94;
+                    long = "Umwelt\U00f6konomie und Abfallwirtschaft";
+                    short = UOAW;
+                    },
+                    {
+                    id = 188;
+                    long = "Umwelt-, Sicherheits- und Gesundheitsmanagement";
+                    short = USG;
+                    },
+                    {
+                    id = 97;
+                    long = Verkehrserziehung;
+                    short = VKE;
+                    },
+                    {
+                    id = 137;
+                    long = Veranstaltungsmanagement;
+                    short = VM3;
+                    },
+                    {
+                    id = 72;
+                    long = "Werkst\U00e4tte";
+                    short = WE5A;
+                    },
+                    {
+                    id = 73;
+                    long = "Werkst\U00e4tte und Produktionstechnik";
+                    short = WEPT;
+                    },
+                    {
+                    id = 13;
+                    long = "Wirtschaftsgeschichte und politische Bildung";
+                    short = WGPB;
+                    },
+                    {
+                    id = 17;
+                    long = "Wirtschaft und Recht";
+                    short = WIR3;
+                    },
+                    {
+                    id = 18;
+                    long = "Wirtschaft und Recht";
+                    short = WIRE;
+                    },
+                    {
+                    id = 71;
+                    long = "Werkst\U00e4ttenlaboratorium";
+                    short = WLA;
+                    },
+                    {
+                    id = 135;
+                    long = "WERKST\U00c4TTENLEITER";
+                    short = WRKL;
+                    },
+                    {
+                    id = 166;
+                    long = "Auff\U00fcllfach bei Absenzen f\U00fcr die Gl\U00e4ttung";
+                    short = XABS;
+                    },
+                    {
+                    id = 153;
+                    long = Sprechstunde;
+                    short = XSPR;
+                    }
+                    );
+    teachers =     (
+                    {
+                    fore = Thomas;
+                    id = 1;
+                    long = ANGERMAYER;
+                    name = ANGE;
+                    surname = ANGERMAYER;
+                    },
+                    {
+                    fore = Murat;
+                    id = 157;
+                    long = BATUR;
+                    name = BATU;
+                    surname = BATUR;
+                    },
+                    {
+                    fore = "Hans Peter";
+                    id = 4;
+                    long = "BAUB\U00d6CK";
+                    name = BAUB;
+                    surname = "BAUB\U00d6CK";
+                    },
+                    {
+                    fore = Monika;
+                    id = 5;
+                    long = BAUER;
+                    name = BAUE;
+                    surname = BAUER;
+                    },
+                    {
+                    fore = Hans;
+                    id = 6;
+                    long = BINDER;
+                    name = BIND;
+                    surname = BINDER;
+                    },
+                    {
+                    fore = Susanne;
+                    id = 8;
+                    long = BLESSL;
+                    name = BLES;
+                    surname = BLESSL;
+                    },
+                    {
+                    fore = Eva;
+                    id = 9;
+                    long = "B\U00d6CK";
+                    name = BOEK;
+                    surname = "B\U00d6CK";
+                    },
+                    {
+                    fore = Josef;
+                    id = 11;
+                    long = "B\U00d6CKL";
+                    name = BOKL;
+                    surname = "B\U00d6CKL";
+                    },
+                    {
+                    fore = Harald;
+                    id = 10;
+                    long = BOHUNEK;
+                    name = BOHU;
+                    surname = BOHUNEK;
+                    },
+                    {
+                    fore = Wilhelm;
+                    id = 174;
+                    long = BONATZ;
+                    name = BONA;
+                    surname = BONATZ;
+                    },
+                    {
+                    fore = Leopold;
+                    id = 12;
+                    long = BRENNER;
+                    name = BREN;
+                    surname = BRENNER;
+                    },
+                    {
+                    fore = Ulrike;
+                    id = 13;
+                    long = BRICHTA;
+                    name = BRIC;
+                    surname = BRICHTA;
+                    },
+                    {
+                    fore = Richard;
+                    id = 14;
+                    long = BRONEDER;
+                    name = BRON;
+                    surname = BRONEDER;
+                    },
+                    {
+                    fore = Hermann;
+                    id = 15;
+                    long = BUTTINGER;
+                    name = BUTT;
+                    surname = BUTTINGER;
+                    },
+                    {
+                    fore = Christina;
+                    id = 16;
+                    long = CAMILO;
+                    name = CAMI;
+                    surname = CAMILO;
+                    },
+                    {
+                    fore = Stefan;
+                    id = 17;
+                    long = CASNY;
+                    name = CASY;
+                    surname = CASNY;
+                    },
+                    {
+                    fore = Marioara;
+                    id = 19;
+                    long = COMLOSAN;
+                    name = COMO;
+                    surname = COMLOSAN;
+                    },
+                    {
+                    fore = Andreas;
+                    id = 18;
+                    long = CZERNY;
+                    name = CERA;
+                    surname = CZERNY;
+                    },
+                    {
+                    fore = Hans;
+                    id = 20;
+                    long = DACHLER;
+                    name = DACH;
+                    surname = DACHLER;
+                    },
+                    {
+                    fore = Irmgard;
+                    id = 23;
+                    long = "DACHLER-WURZ";
+                    name = DAWU;
+                    surname = "DACHLER-WURZ";
+                    },
+                    {
+                    fore = Gerhard;
+                    id = 21;
+                    long = DANIEL;
+                    name = DANI;
+                    surname = DANIEL;
+                    },
+                    {
+                    fore = Harald;
+                    id = 22;
+                    long = DASSLER;
+                    name = DASS;
+                    surname = DASSLER;
+                    },
+                    {
+                    fore = "Heinz-Georg";
+                    id = 24;
+                    long = DIEMERT;
+                    name = DIME;
+                    surname = DIEMERT;
+                    },
+                    {
+                    fore = Christian;
+                    id = 155;
+                    long = DOMBACHER;
+                    name = DOBA;
+                    surname = DOMBACHER;
+                    },
+                    {
+                    fore = Norbert;
+                    id = 25;
+                    long = "DR\U00d6SLER";
+                    name = DROS;
+                    surname = "DR\U00d6SLER";
+                    },
+                    {
+                    fore = Diethard;
+                    id = 26;
+                    long = DUNGL;
+                    name = DUDI;
+                    surname = DUNGL;
+                    },
+                    {
+                    fore = Franz;
+                    id = 27;
+                    long = EIGELSREITER;
+                    name = EIGE;
+                    surname = EIGELSREITER;
+                    },
+                    {
+                    fore = Werner;
+                    id = 28;
+                    long = EXINGER;
+                    name = EXIN;
+                    surname = EXINGER;
+                    },
+                    {
+                    fore = Herbert;
+                    id = 29;
+                    long = FEICHTINGER;
+                    name = FEIH;
+                    surname = FEICHTINGER;
+                    },
+                    {
+                    fore = Norbert;
+                    id = 159;
+                    long = FIALA;
+                    name = FIAL;
+                    surname = FIALA;
+                    },
+                    {
+                    fore = Peter;
+                    id = 30;
+                    long = FISCHER;
+                    name = FISH;
+                    surname = FISCHER;
+                    },
+                    {
+                    fore = Ernst;
+                    id = 31;
+                    long = FITZKA;
+                    name = FITZ;
+                    surname = FITZKA;
+                    },
+                    {
+                    fore = Manfred;
+                    id = 32;
+                    long = "FR\U00d6SCHL";
+                    name = FROE;
+                    surname = "FR\U00d6SCHL";
+                    },
+                    {
+                    fore = Wilhelm;
+                    id = 33;
+                    long = FRYSAK;
+                    name = FRYJ;
+                    surname = FRYSAK;
+                    },
+                    {
+                    fore = Johann;
+                    id = 34;
+                    long = GAGER;
+                    name = GAGE;
+                    surname = GAGER;
+                    },
+                    {
+                    fore = Reinhold;
+                    id = 35;
+                    long = GLATZ;
+                    name = GLAZ;
+                    surname = GLATZ;
+                    },
+                    {
+                    fore = Daniel;
+                    id = 36;
+                    long = GOLDACK;
+                    name = GOLD;
+                    surname = GOLDACK;
+                    },
+                    {
+                    fore = Markus;
+                    id = 164;
+                    long = GRADNER;
+                    name = GRAD;
+                    surname = GRADNER;
+                    },
+                    {
+                    fore = Monika;
+                    id = 37;
+                    long = "GR\U00dcNSTEIDL";
+                    name = GRUE;
+                    surname = "GR\U00dcNSTEIDL";
+                    },
+                    {
+                    fore = Gabriele;
+                    id = 38;
+                    long = "GST\U00d6TTINGER";
+                    name = GSTO;
+                    surname = "GST\U00d6TTINGER";
+                    },
+                    {
+                    fore = Heinrich;
+                    id = 165;
+                    long = HAAGER;
+                    name = HAAG;
+                    surname = HAAGER;
+                    },
+                    {
+                    fore = Juergen;
+                    id = 40;
+                    long = HADINGER;
+                    name = HADI;
+                    surname = HADINGER;
+                    },
+                    {
+                    fore = Andreas;
+                    id = 41;
+                    long = HAIKER;
+                    name = HAIK;
+                    surname = HAIKER;
+                    },
+                    {
+                    fore = Herbert;
+                    id = 42;
+                    long = HAISZAN;
+                    name = HAIS;
+                    surname = HAISZAN;
+                    },
+                    {
+                    fore = Werner;
+                    id = 43;
+                    long = HAMETNER;
+                    name = HAME;
+                    surname = HAMETNER;
+                    },
+                    {
+                    fore = Christian;
+                    id = 44;
+                    long = HEISSENBERGER;
+                    name = HEIS;
+                    surname = HEISSENBERGER;
+                    },
+                    {
+                    fore = Michaela;
+                    id = 45;
+                    long = HEMMELMEIER;
+                    name = HEMM;
+                    surname = HEMMELMEIER;
+                    },
+                    {
+                    fore = Bernhard;
+                    id = 160;
+                    long = "H\U00d6FLING";
+                    name = HOEF;
+                    surname = "H\U00d6FLING";
+                    },
+                    {
+                    fore = Hans;
+                    id = 46;
+                    long = HOLUB;
+                    name = HOLU;
+                    surname = HOLUB;
+                    },
+                    {
+                    fore = Ewald;
+                    id = 47;
+                    long = HUBER;
+                    name = HUBE;
+                    surname = HUBER;
+                    },
+                    {
+                    fore = Hussain;
+                    id = 176;
+                    long = IBRAHIM;
+                    name = IBRA;
+                    surname = IBRAHIM;
+                    },
+                    {
+                    fore = Ernst;
+                    id = 48;
+                    long = JOKSCH;
+                    name = JOKS;
+                    surname = JOKSCH;
+                    },
+                    {
+                    fore = Herbert;
+                    id = 49;
+                    long = KALETA;
+                    name = KALE;
+                    surname = KALETA;
+                    },
+                    {
+                    fore = Lothar;
+                    id = 51;
+                    long = KERBL;
+                    name = KERB;
+                    surname = KERBL;
+                    },
+                    {
+                    fore = Felix;
+                    id = 52;
+                    long = KIRCHDORFER;
+                    name = KIRK;
+                    surname = KIRCHDORFER;
+                    },
+                    {
+                    fore = Peter;
+                    id = 56;
+                    long = KOVAR;
+                    name = KOVA;
+                    surname = KOVAR;
+                    },
+                    {
+                    fore = "G\U00fcnther";
+                    id = 61;
+                    long = KOVARICEK;
+                    name = KVIC;
+                    surname = KOVARICEK;
+                    },
+                    {
+                    fore = Herbert;
+                    id = 55;
+                    long = KOZEL;
+                    name = KOHE;
+                    surname = KOZEL;
+                    },
+                    {
+                    fore = Peter;
+                    id = 57;
+                    long = KREIML;
+                    name = KREI;
+                    surname = KREIML;
+                    },
+                    {
+                    fore = Karl;
+                    id = 58;
+                    long = KREJCA;
+                    name = KREK;
+                    surname = KREJCA;
+                    },
+                    {
+                    fore = Margot;
+                    id = 59;
+                    long = KROBATH;
+                    name = KROB;
+                    surname = KROBATH;
+                    },
+                    {
+                    fore = Erwin;
+                    id = 175;
+                    long = KRONBERGER;
+                    name = KRON;
+                    surname = KRONBERGER;
+                    },
+                    {
+                    fore = Reinhard;
+                    id = 62;
+                    long = LADISLAV;
+                    name = LADI;
+                    surname = LADISLAV;
+                    },
+                    {
+                    fore = Gerhard;
+                    id = 63;
+                    long = LENDL;
+                    name = LEND;
+                    surname = LENDL;
+                    },
+                    {
+                    fore = Gerhard;
+                    id = 64;
+                    long = LINDNER;
+                    name = LIND;
+                    surname = LINDNER;
+                    },
+                    {
+                    fore = Bernhard;
+                    id = 65;
+                    long = LOIBNER;
+                    name = LOIB;
+                    surname = LOIBNER;
+                    },
+                    {
+                    fore = Sophie;
+                    id = 180;
+                    long = LOJKA;
+                    name = LOJK;
+                    surname = LOJKA;
+                    },
+                    {
+                    fore = Liliane;
+                    id = 66;
+                    long = "MALITS-NIEDERMAYER";
+                    name = MALI;
+                    surname = "MALITS-NIEDERMAYER";
+                    },
+                    {
+                    fore = Manfred;
+                    id = 67;
+                    long = MALZER;
+                    name = MALZ;
+                    surname = MALZER;
+                    },
+                    {
+                    fore = Walter;
+                    id = 68;
+                    long = "MANTL-MUSSAK";
+                    name = MAMU;
+                    surname = "MANTL-MUSSAK";
+                    },
+                    {
+                    fore = Eduard;
+                    id = 69;
+                    long = MARAGETER;
+                    name = MARA;
+                    surname = MARAGETER;
+                    },
+                    {
+                    fore = Walter;
+                    id = 72;
+                    long = MAYR;
+                    name = MAYR;
+                    surname = MAYR;
+                    },
+                    {
+                    fore = Filip;
+                    id = 172;
+                    long = MILUNOVIC;
+                    name = MILU;
+                    surname = MILUNOVIC;
+                    },
+                    {
+                    fore = Andrea;
+                    id = 70;
+                    long = "MOKESCH-MARKSZ";
+                    name = MARK;
+                    surname = "MOKESCH-MARKSZ";
+                    },
+                    {
+                    fore = Erich;
+                    id = 74;
+                    long = MUCK;
+                    name = MUCK;
+                    surname = MUCK;
+                    },
+                    {
+                    fore = Gabriele;
+                    id = 75;
+                    long = "MULDERER-LEGAT";
+                    name = MULD;
+                    surname = "MULDERER-LEGAT";
+                    },
+                    {
+                    fore = Paul;
+                    id = 76;
+                    long = NECAS;
+                    name = NECA;
+                    surname = NECAS;
+                    },
+                    {
+                    fore = Doris;
+                    id = 178;
+                    long = NESTLER;
+                    name = NEST;
+                    surname = NESTLER;
+                    },
+                    {
+                    fore = Herbert;
+                    id = 77;
+                    long = NEWALD;
+                    name = NEWA;
+                    surname = NEWALD;
+                    },
+                    {
+                    fore = Johannes;
+                    id = 79;
+                    long = OFFENBERGER;
+                    name = OFEN;
+                    surname = OFFENBERGER;
+                    },
+                    {
+                    fore = Christoph;
+                    id = 78;
+                    long = "\U00d6RLEY";
+                    name = OERL;
+                    surname = "\U00d6RLEY";
+                    },
+                    {
+                    fore = "Anna-Maria";
+                    id = 80;
+                    long = OSTERBAUER;
+                    name = OSTE;
+                    surname = OSTERBAUER;
+                    },
+                    {
+                    fore = Ilse;
+                    id = 166;
+                    long = PACHLINGER;
+                    name = PACH;
+                    surname = PACHLINGER;
+                    },
+                    {
+                    fore = Judith;
+                    id = 170;
+                    long = PAIL;
+                    name = PAIL;
+                    surname = PAIL;
+                    },
+                    {
+                    fore = Lajos;
+                    id = 82;
+                    long = PAP;
+                    name = PAPL;
+                    surname = PAP;
+                    },
+                    {
+                    fore = "";
+                    id = 177;
+                    long = "Parkplatz f\U00fcr ET";
+                    name = "NN_ET";
+                    surname = "Parkplatz f\U00fcr ET";
+                    },
+                    {
+                    fore = Thomas;
+                    id = 83;
+                    long = PAYER;
+                    name = PAYR;
+                    surname = PAYER;
+                    },
+                    {
+                    fore = Gerald;
+                    id = 85;
+                    long = PERTASSEK;
+                    name = PERT;
+                    surname = PERTASSEK;
+                    },
+                    {
+                    fore = Marianne;
+                    id = 86;
+                    long = PETERNELL;
+                    name = PETE;
+                    surname = PETERNELL;
+                    },
+                    {
+                    fore = Benjamin;
+                    id = 179;
+                    long = PETRIC;
+                    name = PETR;
+                    surname = PETRIC;
+                    },
+                    {
+                    fore = "Eva-Maria";
+                    id = 87;
+                    long = PETSCH;
+                    name = PETS;
+                    surname = PETSCH;
+                    },
+                    {
+                    fore = Wolfgang;
+                    id = 88;
+                    long = PFEILER;
+                    name = PFEI;
+                    surname = PFEILER;
+                    },
+                    {
+                    fore = Peter;
+                    id = 89;
+                    long = PICHLER;
+                    name = PICH;
+                    surname = PICHLER;
+                    },
+                    {
+                    fore = Margit;
+                    id = 90;
+                    long = PILAR;
+                    name = PILA;
+                    surname = PILAR;
+                    },
+                    {
+                    fore = Erich;
+                    id = 91;
+                    long = PILS;
+                    name = PILS;
+                    surname = PILS;
+                    },
+                    {
+                    fore = Peter;
+                    id = 93;
+                    long = POLACEK;
+                    name = POLA;
+                    surname = POLACEK;
+                    },
+                    {
+                    fore = Wolfgang;
+                    id = 94;
+                    long = PRECHELMACHER;
+                    name = PREC;
+                    surname = PRECHELMACHER;
+                    },
+                    {
+                    fore = Manfred;
+                    id = 95;
+                    long = PRETZNER;
+                    name = PRET;
+                    surname = PRETZNER;
+                    },
+                    {
+                    fore = Walter;
+                    id = 96;
+                    long = "P\U00dcHRINGER";
+                    name = PUER;
+                    surname = "P\U00dcHRINGER";
+                    },
+                    {
+                    fore = Beatrix;
+                    id = 97;
+                    long = "PUTZ-MAYERHOFER";
+                    name = PUMA;
+                    surname = "PUTZ-MAYERHOFER";
+                    },
+                    {
+                    fore = Richard;
+                    id = 98;
+                    long = RACEK;
+                    name = RACE;
+                    surname = RACEK;
+                    },
+                    {
+                    fore = Martin;
+                    id = 99;
+                    long = RAISL;
+                    name = RAIS;
+                    surname = RAISL;
+                    },
+                    {
+                    fore = Roland;
+                    id = 100;
+                    long = REICHER;
+                    name = REIR;
+                    surname = REICHER;
+                    },
+                    {
+                    fore = Norbert;
+                    id = 101;
+                    long = RESCH;
+                    name = RESH;
+                    surname = RESCH;
+                    },
+                    {
+                    fore = Aileen;
+                    id = 167;
+                    long = RITTER;
+                    name = RITT;
+                    surname = RITTER;
+                    },
+                    {
+                    fore = Franz;
+                    id = 102;
+                    long = ROSENFELLNER;
+                    name = ROSE;
+                    surname = ROSENFELLNER;
+                    },
+                    {
+                    fore = Eduard;
+                    id = 103;
+                    long = "RU\U00dfWURM";
+                    name = RUSS;
+                    surname = "RU\U00dfWURM";
+                    },
+                    {
+                    fore = Erik;
+                    id = 106;
+                    long = SACHER;
+                    name = SACH;
+                    surname = SACHER;
+                    },
+                    {
+                    fore = Franz;
+                    id = 107;
+                    long = SANTRUCEK;
+                    name = SANT;
+                    surname = SANTRUCEK;
+                    },
+                    {
+                    fore = Ulrich;
+                    id = 110;
+                    long = SAX;
+                    name = SAXU;
+                    surname = SAX;
+                    },
+                    {
+                    fore = Heinrich;
+                    id = 105;
+                    long = SCHABMANN;
+                    name = SABM;
+                    surname = SCHABMANN;
+                    },
+                    {
+                    fore = Christian;
+                    id = 116;
+                    long = SCHINDL;
+                    name = SIND;
+                    surname = SCHINDL;
+                    },
+                    {
+                    fore = Bernhard;
+                    id = 120;
+                    long = SCHLESER;
+                    name = SLES;
+                    surname = SCHLESER;
+                    },
+                    {
+                    fore = "Barbara Anna";
+                    id = 168;
+                    long = SCHMIDT;
+                    name = SMIB;
+                    surname = SCHMIDT;
+                    },
+                    {
+                    fore = Fabian;
+                    id = 121;
+                    long = SCHMIEDT;
+                    name = SMIE;
+                    surname = SCHMIEDT;
+                    },
+                    {
+                    fore = Ingrid;
+                    id = 126;
+                    long = SCHREIBER;
+                    name = SREI;
+                    surname = SCHREIBER;
+                    },
+                    {
+                    fore = Oliver;
+                    id = 136;
+                    long = SCHUSTER;
+                    name = SUST;
+                    surname = SCHUSTER;
+                    },
+                    {
+                    fore = Peter;
+                    id = 113;
+                    long = SEIDEL;
+                    name = SEID;
+                    surname = SEIDEL;
+                    },
+                    {
+                    fore = Eva;
+                    id = 115;
+                    long = SIDLO;
+                    name = SIDO;
+                    surname = SIDLO;
+                    },
+                    {
+                    fore = Helmut;
+                    id = 114;
+                    long = SIDLO;
+                    name = SIDI;
+                    surname = SIDLO;
+                    },
+                    {
+                    fore = Michael;
+                    id = 117;
+                    long = SINN;
+                    name = SINN;
+                    surname = SINN;
+                    },
+                    {
+                    fore = Thomas;
+                    id = 173;
+                    long = SINN;
+                    name = SINT;
+                    surname = SINN;
+                    },
+                    {
+                    fore = Paul;
+                    id = 118;
+                    long = SKRITEK;
+                    name = SKRI;
+                    surname = SKRITEK;
+                    },
+                    {
+                    fore = Sabine;
+                    id = 119;
+                    long = SKUDNIGG;
+                    name = SKUD;
+                    surname = SKUDNIGG;
+                    },
+                    {
+                    fore = Gabriele;
+                    id = 123;
+                    long = SOMMER;
+                    name = SOME;
+                    surname = SOMMER;
+                    },
+                    {
+                    fore = Helmut;
+                    id = 124;
+                    long = SOMMER;
+                    name = SOMM;
+                    surname = SOMMER;
+                    },
+                    {
+                    fore = Marion;
+                    id = 125;
+                    long = SPITZBART;
+                    name = SPIZ;
+                    surname = SPITZBART;
+                    },
+                    {
+                    fore = Kurt;
+                    id = 128;
+                    long = STADLER;
+                    name = STAK;
+                    surname = STADLER;
+                    },
+                    {
+                    fore = Christian;
+                    id = 127;
+                    long = STADLMANN;
+                    name = STAD;
+                    surname = STADLMANN;
+                    },
+                    {
+                    fore = Eduard;
+                    id = 129;
+                    long = STAUDECKER;
+                    name = STAU;
+                    surname = STAUDECKER;
+                    },
+                    {
+                    fore = Gabriele;
+                    id = 132;
+                    long = "STELZM\U00dcLLER";
+                    name = STEZ;
+                    surname = "STELZM\U00dcLLER";
+                    },
+                    {
+                    fore = Helmut;
+                    id = 130;
+                    long = STEMMER;
+                    name = STEM;
+                    surname = STEMMER;
+                    },
+                    {
+                    fore = Peter;
+                    id = 131;
+                    long = STENGEL;
+                    name = STEN;
+                    surname = STENGEL;
+                    },
+                    {
+                    fore = Hermann;
+                    id = 133;
+                    long = STOCKINGER;
+                    name = STOK;
+                    surname = STOCKINGER;
+                    },
+                    {
+                    fore = Rudolf;
+                    id = 134;
+                    long = "ST\U00dcTZ";
+                    name = STUE;
+                    surname = "ST\U00dcTZ";
+                    },
+                    {
+                    fore = Elisabeth;
+                    id = 135;
+                    long = "SUESSENBACHER-R.";
+                    name = SURE;
+                    surname = "SUESSENBACHER-R.";
+                    },
+                    {
+                    fore = Wolfgang;
+                    id = 137;
+                    long = SZOBEK;
+                    name = SZOB;
+                    surname = SZOBEK;
+                    },
+                    {
+                    fore = Brigitte;
+                    id = 138;
+                    long = TKADLEC;
+                    name = TADE;
+                    surname = TKADLEC;
+                    },
+                    {
+                    fore = Reinhard;
+                    id = 139;
+                    long = TREPTOW;
+                    name = TREP;
+                    surname = TREPTOW;
+                    },
+                    {
+                    fore = Romana;
+                    id = 140;
+                    long = TSCHIEDEL;
+                    name = TSIR;
+                    surname = TSCHIEDEL;
+                    },
+                    {
+                    fore = Sieglinde;
+                    id = 142;
+                    long = "\U00dcBERMASSER";
+                    name = UEBS;
+                    surname = "\U00dcBERMASSER";
+                    },
+                    {
+                    fore = Anton;
+                    id = 141;
+                    long = UEBERMASSER;
+                    name = UEBA;
+                    surname = UEBERMASSER;
+                    },
+                    {
+                    fore = Richard;
+                    id = 143;
+                    long = URTHEILER;
+                    name = URTH;
+                    surname = URTHEILER;
+                    },
+                    {
+                    fore = Hans;
+                    id = 145;
+                    long = VOLEK;
+                    name = VOLK;
+                    surname = VOLEK;
+                    },
+                    {
+                    fore = Bernhard;
+                    id = 146;
+                    long = WALLISCH;
+                    name = WALL;
+                    surname = WALLISCH;
+                    },
+                    {
+                    fore = Thomas;
+                    id = 147;
+                    long = WIEDERSTEIN;
+                    name = WIED;
+                    surname = WIEDERSTEIN;
+                    },
+                    {
+                    fore = Wolfgang;
+                    id = 148;
+                    long = WIELAND;
+                    name = WIEL;
+                    surname = WIELAND;
+                    },
+                    {
+                    fore = Barbara;
+                    id = 169;
+                    long = WUCHERER;
+                    name = WUBA;
+                    surname = WUCHERER;
+                    },
+                    {
+                    fore = Fritz;
+                    id = 150;
+                    long = WUCHERER;
+                    name = WUCH;
+                    surname = WUCHERER;
+                    },
+                    {
+                    fore = Thomas;
+                    id = 151;
+                    long = WURST;
+                    name = WURT;
+                    surname = WURST;
+                    },
+                    {
+                    fore = Elisabeth;
+                    id = 152;
+                    long = WUTHE;
+                    name = WUTE;
+                    surname = WUTHE;
+                    },
+                    {
+                    fore = Karl;
+                    id = 153;
+                    long = ZOUHAR;
+                    name = ZUHA;
+                    surname = ZOUHAR;
+                    }
+                    );
+    time = "2015-01-15";
+}
