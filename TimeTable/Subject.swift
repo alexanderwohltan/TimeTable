@@ -9,13 +9,15 @@
 import Foundation
 
 class Subject {
-    var ID = 0
     var longString = ""
     var shortString = ""
     
-    init(id : Int, lString : String, sString : String) {
-        ID = id
+    init(lString : String, sString : String) {
         longString = lString
         shortString = sString
+    }
+    
+    func toString() -> String {
+        return "\(shortString): \(longString)"
     }
 }

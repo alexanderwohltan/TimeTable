@@ -9,4 +9,11 @@
 import Foundation
 class Class {
     var name : String = ""
+    var teacher : Teacher = Teacher()
+    var longName : String = ""
+    
+    init (sName : String, lName : String) {
+        name = sName
+        longName = lName
+    }
 }

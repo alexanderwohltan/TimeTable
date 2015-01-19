@@ -8,10 +8,30 @@
 
 import UIKit
 
+extension String {
+    var doubleValue : Double {
+        return (self as NSString).doubleValue
+    }
+    var integerValue : Int {
+        return (self as NSString).integerValue
+    }
+}
+extension Double {
+    func toString() -> String {
+        return String(format: "%.1f", self)
+    }
+}
+extension Int {
+    func toString() -> String {
+        return String(self)
+    }
+}
+
 class ViewController: UIViewController {
     var timeTable : [TimeTableClass] = []
     
     var subjects : [Subject] = []
+    var classes : [Class] = []
 
     override func viewDidLoad() {
         super.viewDidLoad()
@@ -30,12 +50,12 @@ class ViewController: UIViewController {
         //var jsonData = NSData(contentsOfFile: NSBundle.mainBundle().pathForResource("index", ofType: "json")!)
         var json = JSON(data: jsonData!)
         for x in json {
-            println(x.0)
-            
             switch x.0 {
                 case "subjects":
+                    fillSubjects(x.1)
                     break;
                 case "classes":
+                    fillClasses(x.1)
                     break;
                 case "teachers":
                     break;
@@ -54,7 +74,20 @@ class ViewController: UIViewController {
     }
     
     func fillSubjects(json : JSON) {
-        
+        for x in json {
+            var longString = x.1["long"].string
+            var shortString = x.1["short"].string
+            var sub = Subject(lString: longString!, sString: shortString!)
+            subjects.append(sub)
+        }
+    }
+    func fillClasses(json : JSON) {
+        for x in json {
+            var longString = x.1["long"].string
+            var shortString = x.1["short"].string
+            var cla = Class(sName: shortString!, lName: longString!)
+            classes.append(cla)
+        }
     }
 }
 
