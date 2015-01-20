@@ -10,10 +10,18 @@ import Foundation
 class Class {
     var name : String = ""
     var teacher : Teacher = Teacher()
+    var id : Int = 0
     var longName : String = ""
     
     init (sName : String, lName : String) {
         name = sName
         longName = lName
+    }
+    init() {
+        
+    }
+    
+    func toString() -> String {
+        return name
     }
 }

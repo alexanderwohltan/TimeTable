@@ -7,6 +7,9 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		FA0D748A1A6E7BAD000E01C5 /* ClassViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = FA0D74891A6E7BAD000E01C5 /* ClassViewController.swift */; };
+		FA1437A51A6E5A660061B20D /* Room.swift in Sources */ = {isa = PBXBuildFile; fileRef = FA1437A41A6E5A660061B20D /* Room.swift */; };
+		FA1437A71A6E60280061B20D /* Day.swift in Sources */ = {isa = PBXBuildFile; fileRef = FA1437A61A6E60280061B20D /* Day.swift */; };
 		FA20B3C41A6D3FEF00CF1460 /* Class.swift in Sources */ = {isa = PBXBuildFile; fileRef = FA20B3C31A6D3FEF00CF1460 /* Class.swift */; };
 		FA20B3C61A6D404B00CF1460 /* Teacher.swift in Sources */ = {isa = PBXBuildFile; fileRef = FA20B3C51A6D404B00CF1460 /* Teacher.swift */; };
 		FA20B3C81A6D412400CF1460 /* ReadMe.txt in Resources */ = {isa = PBXBuildFile; fileRef = FA20B3C71A6D412400CF1460 /* ReadMe.txt */; };
@@ -35,6 +38,9 @@
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
+		FA0D74891A6E7BAD000E01C5 /* ClassViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = ClassViewController.swift; sourceTree = "<group>"; };
+		FA1437A41A6E5A660061B20D /* Room.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = Room.swift; sourceTree = "<group>"; };
+		FA1437A61A6E60280061B20D /* Day.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = Day.swift; sourceTree = "<group>"; };
 		FA20B3C31A6D3FEF00CF1460 /* Class.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = Class.swift; sourceTree = "<group>"; };
 		FA20B3C51A6D404B00CF1460 /* Teacher.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = Teacher.swift; sourceTree = "<group>"; };
 		FA20B3C71A6D412400CF1460 /* ReadMe.txt */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = ReadMe.txt; sourceTree = "<group>"; };
@@ -110,6 +116,9 @@
 				FA20B3C71A6D412400CF1460 /* ReadMe.txt */,
 				FA4D7A7E1A6DBD03007BE258 /* Subject.swift */,
 				FA4D7A801A6DC034007BE258 /* index.json */,
+				FA1437A41A6E5A660061B20D /* Room.swift */,
+				FA1437A61A6E60280061B20D /* Day.swift */,
+				FA0D74891A6E7BAD000E01C5 /* ClassViewController.swift */,
 			);
 			path = TimeTable;
 			sourceTree = "<group>";
@@ -245,9 +254,12 @@
 				FADA49D51A6D3BF700B45EC5 /* Unit.swift in Sources */,
 				FADA49D31A6D3A1500B45EC5 /* TimeTableClass.swift in Sources */,
 				FA4D7A7D1A6DBA21007BE258 /* SwiftyJSON.swift in Sources */,
+				FA1437A71A6E60280061B20D /* Day.swift in Sources */,
+				FA1437A51A6E5A660061B20D /* Room.swift in Sources */,
 				FADA49B41A6D38E000B45EC5 /* ViewController.swift in Sources */,
 				FADA49AF1A6D38E000B45EC5 /* AppDelegate.swift in Sources */,
 				FA20B3C61A6D404B00CF1460 /* Teacher.swift in Sources */,
+				FA0D748A1A6E7BAD000E01C5 /* ClassViewController.swift in Sources */,
 				FA4D7A7F1A6DBD03007BE258 /* Subject.swift in Sources */,
 				FADA49B21A6D38E000B45EC5 /* TimeTable.xcdatamodeld in Sources */,
 			);

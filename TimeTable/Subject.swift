@@ -9,6 +9,7 @@
 import Foundation
 
 class Subject {
+    var id = 0
     var longString = ""
     var shortString = ""
     

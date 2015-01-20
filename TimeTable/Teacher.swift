@@ -9,5 +9,22 @@
 import Foundation
 
 class Teacher {
-    var shourtcut : String = ""
+    var id = 0
+    var shortcut : String = ""
+    var foreName : String = ""
+    var lastName : String = ""
+    var longName : String = ""
+    
+    init (shortcut : String, foreName : String, lastName : String, longName : String) {
+        self.shortcut = shortcut
+        self.foreName = foreName
+        self.lastName = lastName
+        self.longName = longName
+    }
+    init() {
+        
+    }
+    func toString() -> String {
+        return shortcut
+    }
 }

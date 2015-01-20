@@ -1,21 +1,21 @@
 //
-//  TimeTableClass.swift
+//  Day.swift
 //  TimeTable
 //
-//  Created by Alexander Wohltan on 19.01.15.
+//  Created by Alexander Wohltan on 20.01.15.
 //  Copyright (c) 2015 alphacode. All rights reserved.
 //
 
 import Foundation
 
-class TimeTableClass {
-    var members : Class = Class()
-    var days : [Day] = []
+class Day {
+    var date = ""
+    var units : [Unit] = []
     
     func toString() -> String {
         var x = ""
-        for d in days {
-            x += d.toString()
+        for u in units {
+            x += u.toString()
             x += "\n"
         }
         return x
