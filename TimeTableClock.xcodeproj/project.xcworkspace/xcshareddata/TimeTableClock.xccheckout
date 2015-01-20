@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>1738E369-2BDE-4D58-BEC9-61B244F49476</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>826B5E83937AC61E7F03426A0A3680B4053AF82A</key>
+		<string>ssh://github.com/alexanderwohltan/TimeTable.git</string>
+	</dict>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>826B5E83937AC61E7F03426A0A3680B4053AF82A</key>
+		<string>TimeTable/</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>ssh://github.com/alexanderwohltan/TimeTable.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>111</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>826B5E83937AC61E7F03426A0A3680B4053AF82A</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>826B5E83937AC61E7F03426A0A3680B4053AF82A</string>
+			<key>IDESourceControlWCCName</key>
+			<string>TimeTable</string>
+		</dict>
+	</array>
+</dict>
+</plist>
