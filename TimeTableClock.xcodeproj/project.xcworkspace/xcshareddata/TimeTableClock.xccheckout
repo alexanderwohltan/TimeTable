@@ -6,15 +6,19 @@
 	<false/>
 	<key>IDESourceControlProjectIdentifier</key>
 	<string>1738E369-2BDE-4D58-BEC9-61B244F49476</string>
+	<key>IDESourceControlProjectName</key>
+	<string>TimeTableClock</string>
 	<key>IDESourceControlProjectOriginsDictionary</key>
 	<dict>
 		<key>826B5E83937AC61E7F03426A0A3680B4053AF82A</key>
 		<string>ssh://github.com/alexanderwohltan/TimeTable.git</string>
 	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>TimeTableClock.xcodeproj</string>
 	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
 	<dict>
 		<key>826B5E83937AC61E7F03426A0A3680B4053AF82A</key>
-		<string>TimeTable/</string>
+		<string>../..</string>
 	</dict>
 	<key>IDESourceControlProjectURL</key>
 	<string>ssh://github.com/alexanderwohltan/TimeTable.git</string>

@@ -19,6 +19,12 @@ public class Class {
         name = sName
         longName = lName
     }
+    init (id: Int, name: String, longName: String)
+    {
+        self.id = id
+        self.name = name
+        self.longName = longName
+    }
     init() {
         
     }
@@ -41,6 +47,14 @@ public class Teacher {
         self.lastName = lastName
         self.longName = longName
     }
+    init (id: Int, shortcut: String, foreName: String, lastName: String)
+    {
+        self.id = id
+        self.shortcut = shortcut
+        self.foreName = foreName
+        self.lastName = lastName
+        self.longName = "\(foreName) \(lastName)"
+    }
     init() {
         
     }
@@ -58,6 +72,12 @@ public class Subject {
         longString = lString
         shortString = sString
     }
+    init(id: Int, name: String, longName: String)
+    {
+        self.id = id
+        self.shortString = name
+        self.longString = longName
+    }
     
     func toString() -> String {
         return shortString
@@ -65,11 +85,31 @@ public class Subject {
 }
 
 public class Room {
+    var id = 0
     var short = ""
     var long = ""
     
     init (short : String, long : String) {
         self.short = short
         self.long = long
+    }
+    init(id: Int, name: String, longName: String)
+    {
+        self.id = id
+        self.short = name
+        self.long = longName
+    }
+}
+
+public class Department {
+    var id = 0
+    var name = ""
+    var longName = ""
+    
+    init(id: Int, name: String, longName: String)
+    {
+        self.id = id
+        self.name = name
+        self.longName = longName
     }
 }

@@ -7,6 +7,8 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		FA0223A71AC04514009732BC /* WebuntisHelper.swift in Sources */ = {isa = PBXBuildFile; fileRef = FA0223A61AC04514009732BC /* WebuntisHelper.swift */; };
+		FA0900A81A7263A70031806B /* File.swift in Sources */ = {isa = PBXBuildFile; fileRef = FA0900A71A7263A70031806B /* File.swift */; };
 		FA60D81B1A6EEA25000906F5 /* Entitlements.plist in Resources */ = {isa = PBXBuildFile; fileRef = FA60D81A1A6EEA25000906F5 /* Entitlements.plist */; };
 		FAEC97EE1A6ED0980078EFE5 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = FAEC97ED1A6ED0980078EFE5 /* AppDelegate.swift */; };
 		FAEC97F01A6ED0980078EFE5 /* MasterViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = FAEC97EF1A6ED0980078EFE5 /* MasterViewController.swift */; };
@@ -33,6 +35,8 @@
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
+		FA0223A61AC04514009732BC /* WebuntisHelper.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = WebuntisHelper.swift; sourceTree = "<group>"; };
+		FA0900A71A7263A70031806B /* File.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = File.swift; sourceTree = "<group>"; };
 		FA60D81A1A6EEA25000906F5 /* Entitlements.plist */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.xml; name = Entitlements.plist; path = ../Entitlements.plist; sourceTree = "<group>"; };
 		FAEC97E81A6ED0980078EFE5 /* TimeTableClock.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = TimeTableClock.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		FAEC97EC1A6ED0980078EFE5 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
@@ -95,6 +99,7 @@
 				FAEC97ED1A6ED0980078EFE5 /* AppDelegate.swift */,
 				FAEC97EF1A6ED0980078EFE5 /* MasterViewController.swift */,
 				FAEC97F11A6ED0980078EFE5 /* DetailViewController.swift */,
+				FA0900A71A7263A70031806B /* File.swift */,
 				FAEC97F31A6ED0980078EFE5 /* Main.storyboard */,
 				FAEC97F61A6ED0980078EFE5 /* Images.xcassets */,
 				FAEC97F81A6ED0980078EFE5 /* LaunchScreen.xib */,
@@ -137,6 +142,7 @@
 				FAEC984A1A6ED2E80078EFE5 /* SwiftyJSON.swift */,
 				FAEC984B1A6ED2E80078EFE5 /* TimeTableClasses.swift */,
 				FAEC984C1A6ED2E80078EFE5 /* TimeTableData.swift */,
+				FA0223A61AC04514009732BC /* WebuntisHelper.swift */,
 			);
 			path = Data;
 			sourceTree = "<group>";
@@ -245,9 +251,11 @@
 			files = (
 				FAEC98511A6ED2E80078EFE5 /* TimeTableData.swift in Sources */,
 				FAEC97F21A6ED0980078EFE5 /* DetailViewController.swift in Sources */,
+				FA0223A71AC04514009732BC /* WebuntisHelper.swift in Sources */,
 				FAEC97F01A6ED0980078EFE5 /* MasterViewController.swift in Sources */,
 				FAEC98501A6ED2E80078EFE5 /* TimeTableClasses.swift in Sources */,
 				FAEC984D1A6ED2E80078EFE5 /* InfoClasses.swift in Sources */,
+				FA0900A81A7263A70031806B /* File.swift in Sources */,
 				FAEC984F1A6ED2E80078EFE5 /* SwiftyJSON.swift in Sources */,
 				FAEC97EE1A6ED0980078EFE5 /* AppDelegate.swift in Sources */,
 			);

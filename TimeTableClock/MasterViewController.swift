@@ -21,6 +21,7 @@ class MasterViewController: UITableViewController {
         super.viewDidLoad()
         // Do any additional setup after loading the view, typically from a nib.
         timeTable = TimeTableData()
+        test()
     }
 
     override func didReceiveMemoryWarning() {
@@ -34,7 +35,7 @@ class MasterViewController: UITableViewController {
         if segue.identifier == "showDetail" {
             if let indexPath = self.tableView.indexPathForSelectedRow() {
                 let cl = timeTable.classes[indexPath.row]
-            (segue.destinationViewController as DetailViewController).timeTable = timeTable
+            (segue.destinationViewController as DetailViewController).timeTableData = timeTable
             (segue.destinationViewController as DetailViewController).classItem = cl
             }
         }
@@ -53,7 +54,7 @@ class MasterViewController: UITableViewController {
     override func tableView(tableView: UITableView, cellForRowAtIndexPath indexPath: NSIndexPath) -> UITableViewCell {
         let cell = tableView.dequeueReusableCellWithIdentifier("Cell", forIndexPath: indexPath) as UITableViewCell
 
-        cell.textLabel!.text = timeTable.classes[indexPath.row].toString()
+        cell.textLabel?.text = timeTable.classes[indexPath.row].toString()
         return cell
     }
 

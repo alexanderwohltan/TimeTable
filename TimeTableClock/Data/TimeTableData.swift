@@ -17,7 +17,7 @@ public class TimeTableData {
     public var rooms : [Room] = []
     
     init() {
-        fillData()
+        //fillData()
     }
     
     func fillData() {
