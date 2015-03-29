@@ -17,6 +17,9 @@
 		FA13554F1AC608830000BF3E /* InformationClasses.swift in Sources */ = {isa = PBXBuildFile; fileRef = FA13554E1AC608830000BF3E /* InformationClasses.swift */; };
 		FA1355521AC609B60000BF3E /* SwiftyJSON.swift in Sources */ = {isa = PBXBuildFile; fileRef = FA1355511AC609B60000BF3E /* SwiftyJSON.swift */; };
 		FA1355541AC60BC20000BF3E /* Extensions.swift in Sources */ = {isa = PBXBuildFile; fileRef = FA1355531AC60BC20000BF3E /* Extensions.swift */; };
+		FA8CCCDC1AC733B80025AA82 /* CustomCollectionViewLayout.swift in Sources */ = {isa = PBXBuildFile; fileRef = FA8CCCDB1AC733B80025AA82 /* CustomCollectionViewLayout.swift */; };
+		FA8CCCE01AC7394A0025AA82 /* CustomCollectionViewCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = FA8CCCDF1AC7394A0025AA82 /* CustomCollectionViewCell.swift */; };
+		FA8CCCE41AC769910025AA82 /* TimeTable.swift in Sources */ = {isa = PBXBuildFile; fileRef = FA8CCCE31AC769910025AA82 /* TimeTable.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -44,6 +47,9 @@
 		FA13554E1AC608830000BF3E /* InformationClasses.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = InformationClasses.swift; sourceTree = "<group>"; };
 		FA1355511AC609B60000BF3E /* SwiftyJSON.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = SwiftyJSON.swift; sourceTree = "<group>"; };
 		FA1355531AC60BC20000BF3E /* Extensions.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; name = Extensions.swift; path = "Data Classes/Extensions.swift"; sourceTree = "<group>"; };
+		FA8CCCDB1AC733B80025AA82 /* CustomCollectionViewLayout.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; name = CustomCollectionViewLayout.swift; path = CustomCollectionView/CustomCollectionViewLayout.swift; sourceTree = "<group>"; };
+		FA8CCCDF1AC7394A0025AA82 /* CustomCollectionViewCell.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = CustomCollectionViewCell.swift; sourceTree = "<group>"; };
+		FA8CCCE31AC769910025AA82 /* TimeTable.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; name = TimeTable.swift; path = "Data Classes/TimeTable.swift"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -85,6 +91,7 @@
 		FA1355281AC607ED0000BF3E /* TimeTable */ = {
 			isa = PBXGroup;
 			children = (
+				FA8CCCDA1AC733960025AA82 /* CustomCollectionView */,
 				FA1355501AC609A30000BF3E /* Frameworks */,
 				FA13554B1AC608000000BF3E /* Data Classes */,
 				FA13552B1AC607ED0000BF3E /* AppDelegate.swift */,
@@ -128,6 +135,7 @@
 				FA13554C1AC608580000BF3E /* WebuntisAPI.swift */,
 				FA13554E1AC608830000BF3E /* InformationClasses.swift */,
 				FA1355531AC60BC20000BF3E /* Extensions.swift */,
+				FA8CCCE31AC769910025AA82 /* TimeTable.swift */,
 			);
 			name = "Data Classes";
 			sourceTree = "<group>";
@@ -138,6 +146,15 @@
 				FA1355511AC609B60000BF3E /* SwiftyJSON.swift */,
 			);
 			name = Frameworks;
+			sourceTree = "<group>";
+		};
+		FA8CCCDA1AC733960025AA82 /* CustomCollectionView */ = {
+			isa = PBXGroup;
+			children = (
+				FA8CCCDB1AC733B80025AA82 /* CustomCollectionViewLayout.swift */,
+				FA8CCCDF1AC7394A0025AA82 /* CustomCollectionViewCell.swift */,
+			);
+			name = CustomCollectionView;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -243,9 +260,12 @@
 				FA13552E1AC607ED0000BF3E /* ViewController.swift in Sources */,
 				FA1355541AC60BC20000BF3E /* Extensions.swift in Sources */,
 				FA13552C1AC607ED0000BF3E /* AppDelegate.swift in Sources */,
+				FA8CCCE01AC7394A0025AA82 /* CustomCollectionViewCell.swift in Sources */,
+				FA8CCCE41AC769910025AA82 /* TimeTable.swift in Sources */,
 				FA13554D1AC608580000BF3E /* WebuntisAPI.swift in Sources */,
 				FA1355521AC609B60000BF3E /* SwiftyJSON.swift in Sources */,
 				FA13554F1AC608830000BF3E /* InformationClasses.swift in Sources */,
+				FA8CCCDC1AC733B80025AA82 /* CustomCollectionViewLayout.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -439,6 +459,7 @@
 				FA1355471AC607ED0000BF3E /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		FA1355481AC607ED0000BF3E /* Build configuration list for PBXNativeTarget "TimeTableTests" */ = {
 			isa = XCConfigurationList;
@@ -447,6 +468,7 @@
 				FA13554A1AC607ED0000BF3E /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};

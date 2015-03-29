@@ -626,7 +626,7 @@ public class WebUntisSession {
         //println("response = \(response)")
         
         let responseString : String = NSString(data: data, encoding: NSUTF8StringEncoding)!
-        println("Response (Requesting timetable): \(responseString)")
+        //println("Response (Requesting timetable): \(responseString)")
         
         let responseJSON = JSON(data: data!)
         
@@ -732,9 +732,11 @@ public class WebUntisSession {
         }
         return schoolyears
     }
-    func getTimeTable(id: Int, type: Int, startDate: String, endDate: String) -> [Period]
+    func getTimeTable(id: Int, type: Int, startDate: NSDate, endDate: NSDate) -> [Period]
     {
-        requestTimeTable(id, type: type, startDate: startDate, endDate: endDate)
+        var formatter = NSDateFormatter()
+        formatter.dateFormat = "yyyyMMdd"
+        requestTimeTable(id, type: type, startDate: formatter.stringFromDate(startDate), endDate: formatter.stringFromDate(endDate))
         while isRequestingTimeTable
         {
             NSThread.sleepForTimeInterval(0.1)
@@ -775,14 +777,6 @@ func testAPI()
     x.getStatusData()
     x.getCurrentSchoolyear()
     x.getSchoolyears()
-    for tutorGroup in tg
-    {
-        if tutorGroup.id == x.klasseID
-        {
-            println(tutorGroup.name)
-        }
-    }
-    x.getTimeTable(x.getTeachers()[26].id, type: ElementType.Teacher.rawValue, startDate: "20150324", endDate: "20150324")
     x.logout()
 }
 
